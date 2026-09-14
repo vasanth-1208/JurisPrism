@@ -60,14 +60,19 @@ function ensureDbFile(): DatabaseSchema {
   }
 }
 
-// Atomic write to prevent corruption
+// Atomic write to prevent corruption with serverless fallback
 function saveDb(data: DatabaseSchema) {
-  if (!fs.existsSync(DB_DIR)) {
-    fs.mkdirSync(DB_DIR, { recursive: true });
+  try {
+    if (!fs.existsSync(DB_DIR)) {
+      fs.mkdirSync(DB_DIR, { recursive: true });
+    }
+    const tempFile = `${DB_FILE}.tmp.${Date.now()}`;
+    fs.writeFileSync(tempFile, JSON.stringify(data, null, 2), "utf-8");
+    fs.renameSync(tempFile, DB_FILE);
+  } catch (err) {
+    // In serverless/read-only environments like Netlify/Vercel, memoryDb maintains state for the lambda instance
+    console.warn("Serverless runtime detected (read-only filesystem); maintaining in-memory storage.");
   }
-  const tempFile = `${DB_FILE}.tmp.${Date.now()}`;
-  fs.writeFileSync(tempFile, JSON.stringify(data, null, 2), "utf-8");
-  fs.renameSync(tempFile, DB_FILE);
 }
 
 export class Database {

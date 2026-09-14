@@ -3,7 +3,7 @@
 import React, { useEffect, useState, Suspense } from "react";
 import { useSearchParams } from "next/navigation";
 import { DocumentMetadata, DocumentComparisonResult } from "@/types";
-import ComparisonMatrix from "@/components/compare/ComparisonMatrix";
+import ComparisonMatrix from "../../components/compare/ComparisonMatrix";
 import {
   GitCompare,
   ArrowRight,

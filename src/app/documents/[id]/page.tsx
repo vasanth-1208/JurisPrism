@@ -11,13 +11,13 @@ import {
   DecisionNavigatorStep,
   PreparationKit,
 } from "@/types";
-import ExecutiveSummaryTab from "@/components/document/ExecutiveSummaryTab";
-import ClauseExplorerTab from "@/components/document/ClauseExplorerTab";
-import AttentionMapTab from "@/components/document/AttentionMapTab";
-import TimelineTab from "@/components/document/TimelineTab";
-import GroundedQATab from "@/components/document/GroundedQATab";
-import DecisionNavigatorTab from "@/components/document/DecisionNavigatorTab";
-import PrepKitTab from "@/components/document/PrepKitTab";
+import ExecutiveSummaryTab from "../../../components/document/ExecutiveSummaryTab";
+import ClauseExplorerTab from "../../../components/document/ClauseExplorerTab";
+import AttentionMapTab from "../../../components/document/AttentionMapTab";
+import TimelineTab from "../../../components/document/TimelineTab";
+import GroundedQATab from "../../../components/document/GroundedQATab";
+import DecisionNavigatorTab from "../../../components/document/DecisionNavigatorTab";
+import PrepKitTab from "../../../components/document/PrepKitTab";
 import {
   FileText,
   FileSearch,

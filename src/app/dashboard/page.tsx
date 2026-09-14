@@ -3,9 +3,9 @@
 import React, { useEffect, useState } from "react";
 import Link from "next/link";
 import { DocumentMetadata, ObligationItem } from "@/types";
-import MetricsCards from "@/components/dashboard/MetricsCards";
-import ObligationAlertsWidget from "@/components/dashboard/ObligationAlertsWidget";
-import RecentDocsList from "@/components/dashboard/RecentDocsList";
+import MetricsCards from "../../components/dashboard/MetricsCards";
+import ObligationAlertsWidget from "../../components/dashboard/ObligationAlertsWidget";
+import RecentDocsList from "../../components/dashboard/RecentDocsList";
 import {
   UploadCloud,
   Sparkles,

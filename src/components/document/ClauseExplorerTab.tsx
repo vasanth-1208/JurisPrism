@@ -2,7 +2,7 @@
 
 import React, { useState } from "react";
 import { ClauseAnalysis, ClauseCategory, AttentionLevel } from "@/types";
-import AttentionBadge from "@/components/ui/AttentionBadge";
+import AttentionBadge from "../ui/AttentionBadge";
 import {
   FileText,
   HelpCircle,

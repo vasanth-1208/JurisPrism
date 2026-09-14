@@ -1,3 +1,5 @@
+const path = require("path");
+
 // Force production environment during build even if deployment platform (Netlify) injects NODE_ENV=development
 if (process.argv.some((arg) => arg.includes("build")) || process.env.NEXT_PHASE === "phase-production-build") {
   process.env.NODE_ENV = "production";
@@ -10,6 +12,10 @@ const nextConfig = {
     serverComponentsExternalPackages: ["pdf-parse", "mammoth"],
   },
   webpack: (config, { isServer }) => {
+    config.resolve.alias = {
+      ...config.resolve.alias,
+      "@": path.resolve(__dirname, "src"),
+    };
     if (!isServer) {
       config.resolve.fallback = {
         ...config.resolve.fallback,

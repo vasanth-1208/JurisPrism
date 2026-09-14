@@ -1,5 +1,5 @@
 import React from "react";
-import DropZone from "@/components/upload/DropZone";
+import DropZone from "../../../components/upload/DropZone";
 import { Scale, Lock, ShieldCheck, FileCheck } from "lucide-react";
 import Link from "next/link";
 

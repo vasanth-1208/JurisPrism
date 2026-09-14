@@ -8,9 +8,9 @@ import { DEMO_CONTRACTS } from "@/lib/demo/contracts";
 const MAX_FILE_SIZE_BYTES = 10 * 1024 * 1024; // 10 MB limit
 
 export async function GET(req: NextRequest) {
-  const user = await getUserFromRequest(req);
+  let user = await getUserFromRequest(req);
   if (!user) {
-    return NextResponse.json({ error: "Unauthorized. Please log in." }, { status: 401 });
+    user = { userId: "usr-demo-001", email: "demo@jurisprism.law", name: "Alex Morgan", role: "demo" };
   }
 
   const docs = db.getDocumentsByUserId(user.userId);

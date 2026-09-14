@@ -1,0 +1,1732 @@
+{
+  "users": [
+    {
+      "id": "usr-demo-001",
+      "email": "demo@jurisprism.law",
+      "name": "Alex Morgan",
+      "passwordHash": "$2a$10$P5uX.c7X0.UHDQ1W8Zv1sOaMoctr1wSKX71yDD9QuM3XxYg/qvVzC",
+      "role": "demo",
+      "createdAt": "2026-09-14T07:02:10.946Z"
+    }
+  ],
+  "documents": [
+    {
+      "id": "doc-demo-employment-agreement",
+      "userId": "usr-demo-001",
+      "filename": "Employment_Agreement_Acme_Technologies.txt",
+      "originalName": "Senior Software Engineer Employment Agreement",
+      "mimeType": "text/plain",
+      "fileSize": 7387,
+      "sha256Hash": "0bd94cc5445e794574cdc32bb18e1c2e5bbb7268881ba1870f11a6c00935553e",
+      "documentType": "Employment Agreement",
+      "status": "ANALYZED",
+      "pageCount": 3,
+      "rawText": "EMPLOYMENT AGREEMENT\n\nThis Employment Agreement (the \"Agreement\") is entered into as of October 1, 2024 (the \"Effective Date\"), by and between Acme Technologies, Inc., a Delaware corporation with its principal place of business at 500 Silicon Vista Way, San Francisco, CA 94105 (the \"Company\"), and Alex Morgan, an individual residing at 742 Evergreen Terrace, San Francisco, CA 94110 (the \"Employee\").\n\nRECITALS\nWHEREAS, the Company desires to employ the Employee as a Senior Software Engineer, and the Employee desires to accept such employment upon the terms and subject to the conditions set forth herein.\n\nNOW, THEREFORE, in consideration of the mutual promises, covenants, and conditions herein contained, the parties agree as follows:\n\n1. POSITION AND DUTIES\n1.1 Title and Reporting. The Employee shall serve as Senior Software Engineer, reporting to the VP of Engineering. The Employee shall perform all duties customary to such position and such other duties as may be assigned from time to time by the Company.\n1.2 Devotion of Time. The Employee agrees to devote their full working time, attention, and energies to the business of the Company, and shall not, during the term of employment, engage in any other business activities, consulting, or employment without prior written approval of the Company.\n\n2. COMPENSATION AND BENEFITS\n2.1 Base Salary. The Company shall pay the Employee an annualized base salary of $185,000 (One Hundred Eighty-Five Thousand US Dollars), payable in accordance with the Company's standard payroll practices, less applicable withholdings and deductions.\n2.2 Discretionary Annual Bonus. The Employee shall be eligible to receive an annual discretionary performance bonus targeted at 15% of the Base Salary, subject to the achievement of individual and corporate objectives determined exclusively by the Board of Directors.\n2.3 Equity Incentive. Subject to the approval of the Board of Directors, the Employee shall be granted an option to purchase 25,000 shares of the Company's Common Stock, subject to a standard four-year vesting schedule with a one-year cliff (25% vesting after 12 months, and 1/48th monthly thereafter).\n2.4 Benefits. The Employee shall be eligible to participate in such health, dental, retirement (401k), and paid-time-off (PTO) benefit plans as are made generally available to other full-time employees, consisting of 20 days PTO per calendar year.\n\n3. TERM AND TERMINATION\n3.1 At-Will Employment. The Employee's employment with the Company is \"at-will.\" Either party may terminate the employment relationship at any time, with or without cause, and with or without advance notice, subject to Section 3.2.\n3.2 Notice Requirement. The Employee agrees to provide thirty (30) calendar days' advance written notice to the Company prior to any voluntary resignation. The Company reserves the right to accelerate the departure date upon receipt of such notice.\n3.3 Termination for Cause. The Company may terminate the Employee's employment immediately without notice or severance in the event of \"Cause,\" defined as: (a) material breach of this Agreement or Company policies; (b) willful misconduct or fraud; (c) conviction of a felony; or (d) chronic failure to perform reasonable assigned duties following ten (10) days written cure notice.\n3.4 Severance. If the Employee is terminated by the Company without Cause, and conditioned upon Employee executing a comprehensive general release of claims in favor of the Company, the Company shall pay Employee severance pay equal to three (3) months of Base Salary and continue COBRA premium subsidies for three (3) months.\n\n4. INTELLECTUAL PROPERTY AND INVENTIONS\n4.1 Proprietary Information. Employee agrees to hold all Company proprietary information, trade secrets, software code, customer data, and system architectures in strict confidence indefinitely.\n4.2 Assignment of Inventions. Employee hereby irrevocably assigns and transfers to the Company all right, title, and interest in and to all inventions, discoveries, designs, algorithms, developments, works of authorship, whether patentable or copyrightable, created, conceived, or reduced to practice by Employee, solely or jointly, during the period of employment that relate to the Company's current or demonstrably anticipated business or products.\n4.3 Prior Inventions. Any inventions created by Employee prior to the Effective Date are listed on Exhibit A. If no Exhibit A is attached, Employee warrants that no prior inventions exist.\n\n5. RESTRICTIVE COVENANTS\n5.1 Non-Competition. During the term of employment and for a period of twelve (12) months following the termination of employment for any reason, Employee shall not directly or indirectly engage in, perform services for, invest in, or assist any business entity that directly competes with the Company's core cloud-infrastructure products within the United States.\n5.2 Non-Solicitation of Employees. For a period of twelve (12) months following termination, Employee shall not induce, solicit, or recruit any Company employee, contractor, or consultant to leave Company employment.\n5.3 Non-Solicitation of Customers. For a period of twelve (12) months following termination, Employee shall not solicit or divert any customer or client of the Company with whom Employee had material business contact during the final twelve (12) months of employment.\n\n6. INDEMNIFICATION AND LIABILITY\n6.1 Employee Liability. Employee shall be personally liable for, and shall indemnify the Company against, any damages, losses, or legal costs arising from Employee's gross negligence, willful misconduct, or unauthorized disclosure of Company confidential data.\n6.2 Limitation of Company Liability. In no event shall the Company be liable to Employee for any consequential, indirect, punitive, or special damages arising out of this Agreement.\n\n7. DISPUTE RESOLUTION AND GOVERNING LAW\n7.1 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of California, without regard to conflict of law principles.\n7.2 Mandatory Arbitration. Any dispute, claim, or controversy arising out of or relating to this Agreement or Employee's employment shall be submitted to final and binding arbitration administered by JAMS in San Francisco, California, pursuant to its Employment Arbitration Rules. The parties waive any right to trial by jury or to participate in class action litigation.\n7.3 Attorney's Fees. In any action or arbitration to enforce the terms of this Agreement, the prevailing party shall be entitled to recover reasonable attorneys' fees and costs.\n\n8. MISCELLANEOUS\n8.1 Entire Agreement. This Agreement constitutes the complete agreement between the parties regarding employment and supersedes all prior oral or written understandings.\n8.2 Severability. If any provision of this Agreement is held to be invalid or unenforceable, such provision shall be modified to the minimum extent necessary, and the remaining provisions shall remain in full force.\n8.3 Counterparts. This Agreement may be executed in counterparts and via electronic signature.\n\nIN WITNESS WHEREOF, the parties have executed this Employment Agreement as of the Effective Date.\n\nACME TECHNOLOGIES, INC.\nBy: /s/ Sarah Jenkins\nName: Sarah Jenkins\nTitle: Chief Executive Officer\n\nEMPLOYEE:\nBy: /s/ Alex Morgan\nName: Alex Morgan\nDate: October 1, 2024",
+      "createdAt": "2026-09-14T07:02:10.974Z",
+      "updatedAt": "2026-09-14T07:02:10.974Z"
+    },
+    {
+      "id": "doc-demo-commercial-lease",
+      "userId": "usr-demo-001",
+      "filename": "Commercial_Lease_Metropolitan_Towers.txt",
+      "originalName": "Commercial Real Estate Lease Agreement",
+      "mimeType": "text/plain",
+      "fileSize": 5173,
+      "sha256Hash": "aa011b36f17757ffba5e80ef93aed07ceebead69e3b18b6362d3c84abfd854bf",
+      "documentType": "Commercial Lease",
+      "status": "ANALYZED",
+      "pageCount": 2,
+      "rawText": "COMMERCIAL LEASE AGREEMENT\n\nThis Commercial Lease Agreement (the \"Lease\") is made and entered into on November 15, 2024, by and between Metropolitan Towers LLC, a New York limited liability company (\"Landlord\"), and Apex Innovations Inc., a Delaware corporation (\"Tenant\").\n\n1. PREMISES\nLandlord hereby leases to Tenant, and Tenant hereby leases from Landlord, Suite 1400 (the \"Premises\"), comprising approximately 4,200 rentable square feet located on the 14th floor of the commercial office building situated at 350 Madison Avenue, New York, NY 10017 (the \"Building\").\n\n2. TERM AND RENEWAL OPTION\n2.1 Initial Term. The term of this Lease shall be for thirty-six (36) consecutive months, commencing on January 1, 2025 (the \"Commencement Date\") and expiring on December 31, 2027 (the \"Expiration Date\"), unless terminated earlier pursuant to the terms hereof.\n2.2 Option to Renew. Tenant shall have one (1) option to renew this Lease for an additional period of three (3) years (the \"Renewal Term\"), provided Tenant is not in material default. Tenant must deliver unconditional written notice of election to renew to Landlord no later than one hundred eighty (180) days prior to the Expiration Date. Failure to provide timely notice shall automatically terminate the renewal option.\n\n3. RENT AND FINANCIAL OBLIGATIONS\n3.1 Base Rent. Tenant shall pay Landlord monthly Base Rent in advance on or before the first (1st) day of each calendar month as follows:\n- Year 1 (Months 1-12): $14,000.00 per month ($168,000 annual)\n- Year 2 (Months 13-24): $14,700.00 per month (5% increase)\n- Year 3 (Months 25-36): $15,435.00 per month (5% increase)\n3.2 Late Charge and Interest. If any installment of Rent is not received by Landlord within five (5) calendar days of its due date, Tenant shall immediately pay a late fee equal to 8% of the overdue amount, plus interest accruing at 1.5% per month until paid in full.\n3.3 Operating Expenses (Triple Net). Tenant shall pay its proportionate share (4.2%) of Building Operating Expenses, including real estate property taxes, structural building insurance, and common area maintenance (CAM), billed monthly.\n3.4 Security Deposit. Upon execution of this Lease, Tenant shall deposit with Landlord the sum of $42,000.00 (equivalent to three months Base Rent) as security for the faithful performance of all Lease covenants.\n\n4. USE AND MAINTENANCE\n4.1 Permitted Use. The Premises shall be used exclusively for general executive and administrative office purposes and for no other purpose without Landlord's prior written consent.\n4.2 Tenant Maintenance. Tenant shall, at its sole cost and expense, keep the interior of the Premises in good order, condition, and repair, including interior partitions, light fixtures, electrical wiring, and HVAC distribution components within the suite.\n4.3 Alterations. Tenant shall make no structural alterations, additions, or improvements without Landlord's prior written consent. Any permitted alterations costing over $5,000 shall require Landlord's designated contractor.\n\n5. INSURANCE AND INDEMNIFICATION\n5.1 Tenant Insurance. Tenant shall maintain Commercial General Liability insurance with limits of not less than $2,000,000 per occurrence and $4,000,000 general aggregate, naming Landlord as an additional insured. Proof of insurance must be furnished annually thirty (30) days prior to policy expiration.\n5.2 Indemnification. Tenant shall defend, indemnify, and hold harmless Landlord, its agents, and employees from and against any and all claims, liabilities, damages, or costs (including legal fees) arising from Tenant's use of the Premises or any negligence of Tenant's agents, employees, or visitors.\n\n6. DEFAULT AND REMEDIES\n6.1 Events of Default. Each of the following constitutes an Event of Default: (a) failure to pay Rent within ten (10) days after written notice; (b) failure to cure any non-monetary covenant breach within twenty (20) days following notice; (c) bankruptcy or insolvency of Tenant.\n6.2 Acceleration of Rent. Upon the occurrence of an Event of Default, Landlord may terminate this Lease, re-enter the Premises, and accelerate the entire balance of all remaining unpaid Rent due for the balance of the Lease Term, immediately due and payable.\n\n7. SURRENDER AND HOLDOVER\n7.1 Surrender. Upon expiration or termination, Tenant shall surrender the Premises in broom-clean condition, reasonable wear and tear excepted.\n7.2 Holdover Penalty. If Tenant holds over possession of the Premises following expiration without Landlord's express written agreement, Tenant shall pay monthly holdover rent equal to 200% of the Base Rent in effect immediately prior to expiration, and shall indemnify Landlord against all losses resulting from delayed delivery to incoming tenants.\n\n8. GOVERNING LAW AND JURISDICTION\nThis Lease shall be governed by and construed under the laws of the State of New York. The parties consent to exclusive jurisdiction and venue in the Supreme Court of the State of New York, County of New York.\n\nMETROPOLITAN TOWERS LLC (Landlord)\nBy: /s/ Richard Sterling, Managing Member\n\nAPEX INNOVATIONS INC. (Tenant)\nBy: /s/ Elena Rostova, Chief Financial Officer",
+      "createdAt": "2026-09-14T07:02:11.050Z",
+      "updatedAt": "2026-09-14T07:02:11.050Z"
+    },
+    {
+      "id": "doc-demo-mutual-nda",
+      "userId": "usr-demo-001",
+      "filename": "Mutual_NDA_Horizon_GeneVantage.txt",
+      "originalName": "Mutual Non-Disclosure Agreement (MNDA)",
+      "mimeType": "text/plain",
+      "fileSize": 4600,
+      "sha256Hash": "b96e6c3ac32c8426569da9eb6c26651c750dec67f095edc86f72cfd2f9992e4d",
+      "documentType": "Non-Disclosure Agreement",
+      "status": "ANALYZED",
+      "pageCount": 2,
+      "rawText": "MUTUAL NON-DISCLOSURE AGREEMENT\n\nThis Mutual Non-Disclosure Agreement (\"Agreement\") is made effective as of August 10, 2024 (\"Effective Date\"), by and between Horizon Health Corporation, a Massachusetts corporation (\"Horizon\"), and GeneVantage Labs Inc., a Delaware corporation (\"GeneVantage\"). Horizon and GeneVantage may collectively be referred to as the \"Parties\" or individually as a \"Party.\"\n\n1. PURPOSE\nThe Parties wish to explore potential business partnerships and collaborative research regarding gene-editing diagnostic workflows (the \"Purpose\"). In connection with the Purpose, each Party may disclose to the other Party certain non-public, proprietary, or confidential information.\n\n2. CONFIDENTIAL INFORMATION\n2.1 Definition. \"Confidential Information\" means all non-public technical, clinical, financial, business, operational, customer, or software information disclosed by one Party (\"Disclosing Party\") to the other Party (\"Receiving Party\"), whether orally, visually, or in writing, that is marked as \"Confidential\" or \"Proprietary\" or that reasonably should be understood to be confidential given the nature of the information.\n2.2 Exclusions. Confidential Information does not include information that: (a) is or becomes publicly available without breach of this Agreement; (b) was already known to Receiving Party without confidentiality restrictions prior to disclosure; (c) is independently developed by Receiving Party without reference to or reliance upon Disclosing Party's Confidential Information; or (d) is received from a third party without an obligation of confidentiality.\n\n3. OBLIGATIONS OF RECEIVING PARTY\n3.1 Standard of Care. The Receiving Party shall protect Disclosing Party's Confidential Information using the same degree of care it uses for its own confidential information of like nature, but in no event less than a reasonable degree of care.\n3.2 Permitted Use. The Receiving Party shall use Confidential Information solely in furtherance of the Purpose and for no other commercial or competitive purpose.\n3.3 Need-to-Know Access. The Receiving Party may disclose Confidential Information only to its employees, directors, and professional legal and financial advisors who have a strict need to know for the Purpose and who are bound by written confidentiality obligations at least as restrictive as those contained herein.\n\n4. COMPELLED DISCLOSURE\nIf Receiving Party is legally compelled by court order, subpoena, or administrative regulation to disclose any Confidential Information, Receiving Party shall provide prompt written notice to Disclosing Party (to the extent legally permissible) within five (5) business days to enable Disclosing Party to seek a protective order.\n\n5. RETURN OR DESTRUCTION OF MATERIALS\nWithin ten (10) business days following written request by Disclosing Party or upon termination of discussions regarding the Purpose, Receiving Party shall, at Disclosing Party's option, promptly return or securely destroy all tangible materials containing Confidential Information and certify in writing by an authorized officer that such destruction is complete.\n\n6. TERM AND SURVIVAL\nThis Agreement shall govern disclosures made for a period of one (1) year from the Effective Date. The confidentiality and non-use obligations set forth herein shall survive termination of this Agreement for a period of two (2) years from the date of disclosure; provided, however, that with respect to any trade secrets, such obligations shall survive for so long as the information remains a trade secret under applicable law.\n\n7. NO LICENSE OR WARRANTY\nNothing in this Agreement grants either Party any license, copyright, patent, trademark, or other intellectual property right. All information is provided \"AS IS,\" without warranty of accuracy, completeness, or fitness for a particular purpose.\n\n8. INJUNCTIVE RELIEF\nThe Parties acknowledge that unauthorized disclosure or use of Confidential Information will cause irreparable injury for which monetary damages alone would be inadequate. Disclosing Party shall be entitled to seek temporary and permanent injunctive relief without the necessity of posting a bond.\n\n9. GOVERNING LAW AND VENUE\nThis Agreement shall be governed by and interpreted under the laws of the State of Delaware, without regard to conflicts of law rules. Any legal proceedings shall be brought exclusively in the state or federal courts located in Wilmington, Delaware.\n\nHORIZON HEALTH CORPORATION\nBy: /s/ Dr. Marcus Thorne, Chief Scientific Officer\n\nGENEVANTAGE LABS INC.\nBy: /s/ Claire Deveraux, VP Business Development",
+      "createdAt": "2026-09-14T07:02:11.114Z",
+      "updatedAt": "2026-09-14T07:02:11.114Z"
+    },
+    {
+      "id": "doc-demo-employment-redline",
+      "userId": "usr-demo-001",
+      "filename": "Employment_Agreement_Acme_Redline_v2.txt",
+      "originalName": "Senior Software Engineer Employment Agreement (Candidate Redline)",
+      "mimeType": "text/plain",
+      "fileSize": 2891,
+      "sha256Hash": "8b6d61f3e531906adc5a17d3dc51c1d84ced8b9f311ffd6bde0794b5302b5b72",
+      "documentType": "Employment Agreement",
+      "status": "ANALYZED",
+      "pageCount": 1,
+      "rawText": "EMPLOYMENT AGREEMENT (REVISED DRAFT v2 - REDLINE)\n\nThis Employment Agreement (the \"Agreement\") is entered into as of October 1, 2024 (the \"Effective Date\"), by and between Acme Technologies, Inc., a Delaware corporation (the \"Company\"), and Alex Morgan, an individual residing in San Francisco, CA (the \"Employee\").\n\n1. POSITION AND DUTIES\n1.1 Title and Reporting. The Employee shall serve as Senior Software Engineer, reporting to the VP of Engineering.\n1.2 Devotion of Time. The Employee agrees to devote their professional working hours to Company business, but retains the right to engage in personal open-source projects, writing, and advisory roles that do not directly conflict with Company products.\n\n2. COMPENSATION AND BENEFITS\n2.1 Base Salary. The Company shall pay the Employee an annualized base salary of $195,000 (One Hundred Ninety-Five Thousand US Dollars), payable bi-weekly.\n2.2 Annual Bonus. The Employee shall participate in an annual bonus pool with a guaranteed minimum floor of 10% and a target of 20% based on mutually agreed OKRs.\n2.3 Equity Incentive. Option grant of 30,000 shares of Common Stock with 4-year vesting and single-trigger acceleration upon change of control.\n2.4 Benefits. Full health/dental/vision coverage with 25 days PTO per calendar year.\n\n3. TERM AND TERMINATION\n3.1 Notice Requirement. Either party may terminate with fourteen (14) days advance written notice.\n3.2 Termination for Cause. \"Cause\" is narrowly defined as a final criminal conviction of a felony or intentional fraud causing material financial harm to Company.\n3.3 Severance. If terminated without Cause, Employee shall receive six (6) months of Base Salary plus full COBRA premium coverage for six (6) months.\n\n4. INTELLECTUAL PROPERTY\n4.1 Carve-Out for Personal Inventions. Assignment of inventions is strictly limited to inventions created during working hours using Company equipment that relate directly to Company's proprietary cloud product. All personal inventions created on Employee's personal time remain Employee's exclusive property.\n\n5. RESTRICTIVE COVENANTS\n5.1 Non-Competition. DELETED IN ITS ENTIRETY (Void under California Business and Professions Code § 16600).\n5.2 Non-Solicitation. Limited to 6 months post-termination, strictly covering direct encouragement of engineers with whom Employee worked directly.\n\n6. INDEMNIFICATION AND LIABILITY\n6.1 Mutual Indemnification. Company shall defend and indemnify Employee against all third-party claims arising from Employee's good-faith performance of duties.\n6.2 Mutual Limitation of Liability. Neither party shall be liable for indirect or consequential damages.\n\n7. DISPUTE RESOLUTION\n7.1 Governing Law. State of California.\n7.2 Mediation First. Parties agree to good-faith mediation before initiating binding arbitration in San Francisco, CA.\n\nACME TECHNOLOGIES, INC. /s/ Sarah Jenkins\nEMPLOYEE /s/ Alex Morgan",
+      "createdAt": "2026-09-14T07:02:11.189Z",
+      "updatedAt": "2026-09-14T07:02:11.189Z"
+    }
+  ],
+  "documentChunks": [
+    {
+      "id": "chk-0-1789369330986",
+      "chunkIndex": 0,
+      "content": "EMPLOYMENT AGREEMENT\n\nThis Employment Agreement (the \"Agreement\") is entered into as of October 1, 2024 (the \"Effective Date\"), by and between Acme Technologies, Inc., a Delaware corporation with its principal place of business at 500 Silicon Vista Way, San Francisco, CA 94105 (the \"Company\"), and Alex Morgan, an individual residing at 742 Evergreen Terrace, San Francisco, CA 94110 (the \"Employee\").\n\nRECITALS\nWHEREAS, the Company desires to employ the Employee as a Senior Software Engineer, and the Employee desires to accept such employment upon the terms and subject to the conditions set forth herein.\n\nNOW, THEREFORE, in consideration of the mutual promises, covenants, and conditions herein contained, the parties agree as follows:\n\n1. POSITION AND DUTIES\n1.1 Title and Reporting. The Employee shall serve as Senior Software Engineer, reporting to the VP of Engineering. The Employee shall perform all duties customary to such position and such other duties as may be assigned from time to time by the Company.\n1.2 Devotion of Time. The Employee agrees to devote their full working time, attention, and energies to the business of the Company, and shall not, during the term of employment, engage in any other business activities, consulting, or employment without prior written approval of the Company.",
+      "pageNumber": 1,
+      "documentId": "doc-demo-employment-agreement"
+    },
+    {
+      "id": "chk-1-1789369330986",
+      "chunkIndex": 1,
+      "content": "2. COMPENSATION AND BENEFITS\n2.1 Base Salary. The Company shall pay the Employee an annualized base salary of $185,000 (One Hundred Eighty-Five Thousand US Dollars), payable in accordance with the Company's standard payroll practices, less applicable withholdings and deductions.\n2.2 Discretionary Annual Bonus. The Employee shall be eligible to receive an annual discretionary performance bonus targeted at 15% of the Base Salary, subject to the achievement of individual and corporate objectives determined exclusively by the Board of Directors.\n2.3 Equity Incentive. Subject to the approval of the Board of Directors, the Employee shall be granted an option to purchase 25,000 shares of the Company's Common Stock, subject to a standard four-year vesting schedule with a one-year cliff (25% vesting after 12 months, and 1/48th monthly thereafter).\n2.4 Benefits. The Employee shall be eligible to participate in such health, dental, retirement (401k), and paid-time-off (PTO) benefit plans as are made generally available to other full-time employees, consisting of 20 days PTO per calendar year.",
+      "pageNumber": 1,
+      "documentId": "doc-demo-employment-agreement"
+    },
+    {
+      "id": "chk-2-1789369330986",
+      "chunkIndex": 2,
+      "content": "3. TERM AND TERMINATION\n3.1 At-Will Employment. The Employee's employment with the Company is \"at-will.\" Either party may terminate the employment relationship at any time, with or without cause, and with or without advance notice, subject to Section 3.2.\n3.2 Notice Requirement. The Employee agrees to provide thirty (30) calendar days' advance written notice to the Company prior to any voluntary resignation. The Company reserves the right to accelerate the departure date upon receipt of such notice.\n3.3 Termination for Cause. The Company may terminate the Employee's employment immediately without notice or severance in the event of \"Cause,\" defined as: (a) material breach of this Agreement or Company policies; (b) willful misconduct or fraud; (c) conviction of a felony; or (d) chronic failure to perform reasonable assigned duties following ten (10) days written cure notice.\n3.4 Severance. If the Employee is terminated by the Company without Cause, and conditioned upon Employee executing a comprehensive general release of claims in favor of the Company, the Company shall pay Employee severance pay equal to three (3) months of Base Salary and continue COBRA premium subsidies for three (3) months.",
+      "pageNumber": 2,
+      "documentId": "doc-demo-employment-agreement"
+    },
+    {
+      "id": "chk-3-1789369330986",
+      "chunkIndex": 3,
+      "content": "4. INTELLECTUAL PROPERTY AND INVENTIONS\n4.1 Proprietary Information. Employee agrees to hold all Company proprietary information, trade secrets, software code, customer data, and system architectures in strict confidence indefinitely.\n4.2 Assignment of Inventions. Employee hereby irrevocably assigns and transfers to the Company all right, title, and interest in and to all inventions, discoveries, designs, algorithms, developments, works of authorship, whether patentable or copyrightable, created, conceived, or reduced to practice by Employee, solely or jointly, during the period of employment that relate to the Company's current or demonstrably anticipated business or products.\n4.3 Prior Inventions. Any inventions created by Employee prior to the Effective Date are listed on Exhibit A. If no Exhibit A is attached, Employee warrants that no prior inventions exist.\n\n5. RESTRICTIVE COVENANTS\n5.1 Non-Competition. During the term of employment and for a period of twelve (12) months following the termination of employment for any reason, Employee shall not directly or indirectly engage in, perform services for, invest in, or assist any business entity that directly competes with the Company's core cloud-infrastructure products within the United States.\n5.2 Non-Solicitation of Employees. For a period of twelve (12) months following termination, Employee shall not induce, solicit, or recruit any Company employee, contractor, or consultant to leave Company employment.\n5.3 Non-Solicitation of Customers. For a period of twelve (12) months following termination, Employee shall not solicit or divert any customer or client of the Company with whom Employee had material business contact during the final twelve (12) months of employment.",
+      "pageNumber": 2,
+      "documentId": "doc-demo-employment-agreement"
+    },
+    {
+      "id": "chk-4-1789369330987",
+      "chunkIndex": 4,
+      "content": "6. INDEMNIFICATION AND LIABILITY\n6.1 Employee Liability. Employee shall be personally liable for, and shall indemnify the Company against, any damages, losses, or legal costs arising from Employee's gross negligence, willful misconduct, or unauthorized disclosure of Company confidential data.\n6.2 Limitation of Company Liability. In no event shall the Company be liable to Employee for any consequential, indirect, punitive, or special damages arising out of this Agreement.\n\n7. DISPUTE RESOLUTION AND GOVERNING LAW\n7.1 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of California, without regard to conflict of law principles.\n7.2 Mandatory Arbitration. Any dispute, claim, or controversy arising out of or relating to this Agreement or Employee's employment shall be submitted to final and binding arbitration administered by JAMS in San Francisco, California, pursuant to its Employment Arbitration Rules. The parties waive any right to trial by jury or to participate in class action litigation.\n7.3 Attorney's Fees. In any action or arbitration to enforce the terms of this Agreement, the prevailing party shall be entitled to recover reasonable attorneys' fees and costs.\n\n8. MISCELLANEOUS\n8.1 Entire Agreement. This Agreement constitutes the complete agreement between the parties regarding employment and supersedes all prior oral or written understandings.\n8.2 Severability. If any provision of this Agreement is held to be invalid or unenforceable, such provision shall be modified to the minimum extent necessary, and the remaining provisions shall remain in full force.\n8.3 Counterparts. This Agreement may be executed in counterparts and via electronic signature.",
+      "pageNumber": 3,
+      "documentId": "doc-demo-employment-agreement"
+    },
+    {
+      "id": "chk-5-1789369330987",
+      "chunkIndex": 5,
+      "content": "IN WITNESS WHEREOF, the parties have executed this Employment Agreement as of the Effective Date.\n\nACME TECHNOLOGIES, INC.\nBy: /s/ Sarah Jenkins\nName: Sarah Jenkins\nTitle: Chief Executive Officer\n\nEMPLOYEE:\nBy: /s/ Alex Morgan\nName: Alex Morgan\nDate: October 1, 2024",
+      "pageNumber": 3,
+      "documentId": "doc-demo-employment-agreement"
+    },
+    {
+      "id": "chk-0-1789369331061",
+      "chunkIndex": 0,
+      "content": "COMMERCIAL LEASE AGREEMENT\n\nThis Commercial Lease Agreement (the \"Lease\") is made and entered into on November 15, 2024, by and between Metropolitan Towers LLC, a New York limited liability company (\"Landlord\"), and Apex Innovations Inc., a Delaware corporation (\"Tenant\").\n\n1. PREMISES\nLandlord hereby leases to Tenant, and Tenant hereby leases from Landlord, Suite 1400 (the \"Premises\"), comprising approximately 4,200 rentable square feet located on the 14th floor of the commercial office building situated at 350 Madison Avenue, New York, NY 10017 (the \"Building\").\n\n2. TERM AND RENEWAL OPTION\n2.1 Initial Term. The term of this Lease shall be for thirty-six (36) consecutive months, commencing on January 1, 2025 (the \"Commencement Date\") and expiring on December 31, 2027 (the \"Expiration Date\"), unless terminated earlier pursuant to the terms hereof.\n2.2 Option to Renew. Tenant shall have one (1) option to renew this Lease for an additional period of three (3) years (the \"Renewal Term\"), provided Tenant is not in material default. Tenant must deliver unconditional written notice of election to renew to Landlord no later than one hundred eighty (180) days prior to the Expiration Date. Failure to provide timely notice shall automatically terminate the renewal option.",
+      "pageNumber": 1,
+      "documentId": "doc-demo-commercial-lease"
+    },
+    {
+      "id": "chk-1-1789369331061",
+      "chunkIndex": 1,
+      "content": "3. RENT AND FINANCIAL OBLIGATIONS\n3.1 Base Rent. Tenant shall pay Landlord monthly Base Rent in advance on or before the first (1st) day of each calendar month as follows:\n- Year 1 (Months 1-12): $14,000.00 per month ($168,000 annual)\n- Year 2 (Months 13-24): $14,700.00 per month (5% increase)\n- Year 3 (Months 25-36): $15,435.00 per month (5% increase)\n3.2 Late Charge and Interest. If any installment of Rent is not received by Landlord within five (5) calendar days of its due date, Tenant shall immediately pay a late fee equal to 8% of the overdue amount, plus interest accruing at 1.5% per month until paid in full.\n3.3 Operating Expenses (Triple Net). Tenant shall pay its proportionate share (4.2%) of Building Operating Expenses, including real estate property taxes, structural building insurance, and common area maintenance (CAM), billed monthly.\n3.4 Security Deposit. Upon execution of this Lease, Tenant shall deposit with Landlord the sum of $42,000.00 (equivalent to three months Base Rent) as security for the faithful performance of all Lease covenants.\n\n4. USE AND MAINTENANCE\n4.1 Permitted Use. The Premises shall be used exclusively for general executive and administrative office purposes and for no other purpose without Landlord's prior written consent.\n4.2 Tenant Maintenance. Tenant shall, at its sole cost and expense, keep the interior of the Premises in good order, condition, and repair, including interior partitions, light fixtures, electrical wiring, and HVAC distribution components within the suite.\n4.3 Alterations. Tenant shall make no structural alterations, additions, or improvements without Landlord's prior written consent. Any permitted alterations costing over $5,000 shall require Landlord's designated contractor.",
+      "pageNumber": 2,
+      "documentId": "doc-demo-commercial-lease"
+    },
+    {
+      "id": "chk-2-1789369331061",
+      "chunkIndex": 2,
+      "content": "5. INSURANCE AND INDEMNIFICATION\n5.1 Tenant Insurance. Tenant shall maintain Commercial General Liability insurance with limits of not less than $2,000,000 per occurrence and $4,000,000 general aggregate, naming Landlord as an additional insured. Proof of insurance must be furnished annually thirty (30) days prior to policy expiration.\n5.2 Indemnification. Tenant shall defend, indemnify, and hold harmless Landlord, its agents, and employees from and against any and all claims, liabilities, damages, or costs (including legal fees) arising from Tenant's use of the Premises or any negligence of Tenant's agents, employees, or visitors.\n\n6. DEFAULT AND REMEDIES\n6.1 Events of Default. Each of the following constitutes an Event of Default: (a) failure to pay Rent within ten (10) days after written notice; (b) failure to cure any non-monetary covenant breach within twenty (20) days following notice; (c) bankruptcy or insolvency of Tenant.\n6.2 Acceleration of Rent. Upon the occurrence of an Event of Default, Landlord may terminate this Lease, re-enter the Premises, and accelerate the entire balance of all remaining unpaid Rent due for the balance of the Lease Term, immediately due and payable.\n\n7. SURRENDER AND HOLDOVER\n7.1 Surrender. Upon expiration or termination, Tenant shall surrender the Premises in broom-clean condition, reasonable wear and tear excepted.\n7.2 Holdover Penalty. If Tenant holds over possession of the Premises following expiration without Landlord's express written agreement, Tenant shall pay monthly holdover rent equal to 200% of the Base Rent in effect immediately prior to expiration, and shall indemnify Landlord against all losses resulting from delayed delivery to incoming tenants.",
+      "pageNumber": 2,
+      "documentId": "doc-demo-commercial-lease"
+    },
+    {
+      "id": "chk-3-1789369331061",
+      "chunkIndex": 3,
+      "content": "8. GOVERNING LAW AND JURISDICTION\nThis Lease shall be governed by and construed under the laws of the State of New York. The parties consent to exclusive jurisdiction and venue in the Supreme Court of the State of New York, County of New York.\n\nMETROPOLITAN TOWERS LLC (Landlord)\nBy: /s/ Richard Sterling, Managing Member\n\nAPEX INNOVATIONS INC. (Tenant)\nBy: /s/ Elena Rostova, Chief Financial Officer",
+      "pageNumber": 2,
+      "documentId": "doc-demo-commercial-lease"
+    },
+    {
+      "id": "chk-0-1789369331123",
+      "chunkIndex": 0,
+      "content": "MUTUAL NON-DISCLOSURE AGREEMENT\n\nThis Mutual Non-Disclosure Agreement (\"Agreement\") is made effective as of August 10, 2024 (\"Effective Date\"), by and between Horizon Health Corporation, a Massachusetts corporation (\"Horizon\"), and GeneVantage Labs Inc., a Delaware corporation (\"GeneVantage\"). Horizon and GeneVantage may collectively be referred to as the \"Parties\" or individually as a \"Party.\"\n\n1. PURPOSE\nThe Parties wish to explore potential business partnerships and collaborative research regarding gene-editing diagnostic workflows (the \"Purpose\"). In connection with the Purpose, each Party may disclose to the other Party certain non-public, proprietary, or confidential information.\n\n2. CONFIDENTIAL INFORMATION\n2.1 Definition. \"Confidential Information\" means all non-public technical, clinical, financial, business, operational, customer, or software information disclosed by one Party (\"Disclosing Party\") to the other Party (\"Receiving Party\"), whether orally, visually, or in writing, that is marked as \"Confidential\" or \"Proprietary\" or that reasonably should be understood to be confidential given the nature of the information.\n2.2 Exclusions. Confidential Information does not include information that: (a) is or becomes publicly available without breach of this Agreement; (b) was already known to Receiving Party without confidentiality restrictions prior to disclosure; (c) is independently developed by Receiving Party without reference to or reliance upon Disclosing Party's Confidential Information; or (d) is received from a third party without an obligation of confidentiality.",
+      "pageNumber": 1,
+      "documentId": "doc-demo-mutual-nda"
+    },
+    {
+      "id": "chk-1-1789369331123",
+      "chunkIndex": 1,
+      "content": "3. OBLIGATIONS OF RECEIVING PARTY\n3.1 Standard of Care. The Receiving Party shall protect Disclosing Party's Confidential Information using the same degree of care it uses for its own confidential information of like nature, but in no event less than a reasonable degree of care.\n3.2 Permitted Use. The Receiving Party shall use Confidential Information solely in furtherance of the Purpose and for no other commercial or competitive purpose.\n3.3 Need-to-Know Access. The Receiving Party may disclose Confidential Information only to its employees, directors, and professional legal and financial advisors who have a strict need to know for the Purpose and who are bound by written confidentiality obligations at least as restrictive as those contained herein.\n\n4. COMPELLED DISCLOSURE\nIf Receiving Party is legally compelled by court order, subpoena, or administrative regulation to disclose any Confidential Information, Receiving Party shall provide prompt written notice to Disclosing Party (to the extent legally permissible) within five (5) business days to enable Disclosing Party to seek a protective order.\n\n5. RETURN OR DESTRUCTION OF MATERIALS\nWithin ten (10) business days following written request by Disclosing Party or upon termination of discussions regarding the Purpose, Receiving Party shall, at Disclosing Party's option, promptly return or securely destroy all tangible materials containing Confidential Information and certify in writing by an authorized officer that such destruction is complete.",
+      "pageNumber": 2,
+      "documentId": "doc-demo-mutual-nda"
+    },
+    {
+      "id": "chk-2-1789369331123",
+      "chunkIndex": 2,
+      "content": "6. TERM AND SURVIVAL\nThis Agreement shall govern disclosures made for a period of one (1) year from the Effective Date. The confidentiality and non-use obligations set forth herein shall survive termination of this Agreement for a period of two (2) years from the date of disclosure; provided, however, that with respect to any trade secrets, such obligations shall survive for so long as the information remains a trade secret under applicable law.\n\n7. NO LICENSE OR WARRANTY\nNothing in this Agreement grants either Party any license, copyright, patent, trademark, or other intellectual property right. All information is provided \"AS IS,\" without warranty of accuracy, completeness, or fitness for a particular purpose.\n\n8. INJUNCTIVE RELIEF\nThe Parties acknowledge that unauthorized disclosure or use of Confidential Information will cause irreparable injury for which monetary damages alone would be inadequate. Disclosing Party shall be entitled to seek temporary and permanent injunctive relief without the necessity of posting a bond.\n\n9. GOVERNING LAW AND VENUE\nThis Agreement shall be governed by and interpreted under the laws of the State of Delaware, without regard to conflicts of law rules. Any legal proceedings shall be brought exclusively in the state or federal courts located in Wilmington, Delaware.\n\nHORIZON HEALTH CORPORATION\nBy: /s/ Dr. Marcus Thorne, Chief Scientific Officer\n\nGENEVANTAGE LABS INC.\nBy: /s/ Claire Deveraux, VP Business Development",
+      "pageNumber": 2,
+      "documentId": "doc-demo-mutual-nda"
+    },
+    {
+      "id": "chk-0-1789369331200",
+      "chunkIndex": 0,
+      "content": "EMPLOYMENT AGREEMENT (REVISED DRAFT v2 - REDLINE)\n\nThis Employment Agreement (the \"Agreement\") is entered into as of October 1, 2024 (the \"Effective Date\"), by and between Acme Technologies, Inc., a Delaware corporation (the \"Company\"), and Alex Morgan, an individual residing in San Francisco, CA (the \"Employee\").\n\n1. POSITION AND DUTIES\n1.1 Title and Reporting. The Employee shall serve as Senior Software Engineer, reporting to the VP of Engineering.\n1.2 Devotion of Time. The Employee agrees to devote their professional working hours to Company business, but retains the right to engage in personal open-source projects, writing, and advisory roles that do not directly conflict with Company products.\n\n2. COMPENSATION AND BENEFITS\n2.1 Base Salary. The Company shall pay the Employee an annualized base salary of $195,000 (One Hundred Ninety-Five Thousand US Dollars), payable bi-weekly.\n2.2 Annual Bonus. The Employee shall participate in an annual bonus pool with a guaranteed minimum floor of 10% and a target of 20% based on mutually agreed OKRs.\n2.3 Equity Incentive. Option grant of 30,000 shares of Common Stock with 4-year vesting and single-trigger acceleration upon change of control.\n2.4 Benefits. Full health/dental/vision coverage with 25 days PTO per calendar year.\n\n3. TERM AND TERMINATION\n3.1 Notice Requirement. Either party may terminate with fourteen (14) days advance written notice.\n3.2 Termination for Cause. \"Cause\" is narrowly defined as a final criminal conviction of a felony or intentional fraud causing material financial harm to Company.\n3.3 Severance. If terminated without Cause, Employee shall receive six (6) months of Base Salary plus full COBRA premium coverage for six (6) months.",
+      "pageNumber": 1,
+      "documentId": "doc-demo-employment-redline"
+    },
+    {
+      "id": "chk-1-1789369331200",
+      "chunkIndex": 1,
+      "content": "4. INTELLECTUAL PROPERTY\n4.1 Carve-Out for Personal Inventions. Assignment of inventions is strictly limited to inventions created during working hours using Company equipment that relate directly to Company's proprietary cloud product. All personal inventions created on Employee's personal time remain Employee's exclusive property.\n\n5. RESTRICTIVE COVENANTS\n5.1 Non-Competition. DELETED IN ITS ENTIRETY (Void under California Business and Professions Code § 16600).\n5.2 Non-Solicitation. Limited to 6 months post-termination, strictly covering direct encouragement of engineers with whom Employee worked directly.\n\n6. INDEMNIFICATION AND LIABILITY\n6.1 Mutual Indemnification. Company shall defend and indemnify Employee against all third-party claims arising from Employee's good-faith performance of duties.\n6.2 Mutual Limitation of Liability. Neither party shall be liable for indirect or consequential damages.\n\n7. DISPUTE RESOLUTION\n7.1 Governing Law. State of California.\n7.2 Mediation First. Parties agree to good-faith mediation before initiating binding arbitration in San Francisco, CA.\n\nACME TECHNOLOGIES, INC. /s/ Sarah Jenkins\nEMPLOYEE /s/ Alex Morgan",
+      "pageNumber": 1,
+      "documentId": "doc-demo-employment-redline"
+    }
+  ],
+  "summaries": [
+    {
+      "id": "sum-doc-demo-employment-agreement",
+      "documentId": "doc-demo-employment-agreement",
+      "createdAt": "2026-09-14T07:02:11.004Z",
+      "documentType": "Employment Agreement",
+      "executiveSummary": "This document is a formal Employment Agreement between Acme Technologies and Alex Morgan, executed with an effective date of October 1, 2024. The agreement establishes operational commitments, terms of engagement (twelve (12) months following the termination of employment for any reason, Employee shall not directly or indirectly engage in, perform services for, invest in, or assist any business entity that directly competes with the Company's core cloud-infrastructure products within the United States), and governing financial arrangements (Not found in document). It is governed under the jurisdiction of State of California.\n\nFrom a structural analysis standpoint, this agreement contains significant clauses governing termination rights, dispute resolution, restrictive covenants, and intellectual property ownership. Non-standard or high-attention provisions have been highlighted for pre-signing legal review.",
+      "plainEnglishExplanation": "In plain terms, this Employment Agreement lays out the legal relationship between the parties. In exchange for agreed financial payments or mutual business opportunities, both parties agree to follow strict rules. \n\nKey takeaways to keep in mind:\n1. You have defined performance and notice obligations before ending the agreement.\n2. The agreement contains strict rules regarding confidentiality and ownership of work produced.\n3. If a legal dispute arises, the parties are directed toward formal dispute proceedings in the designated governing state.\n4. Several high-attention clauses require careful scrutiny before signature, particularly regarding liability, notice periods, and post-agreement restrictions.",
+      "parties": {
+        "partyA": "Acme Technologies",
+        "partyB": "Alex Morgan"
+      },
+      "effectiveDate": "October 1, 2024",
+      "termExpiry": "twelve (12) months following the termination of employment for any reason, Employee shall not directly or indirectly engage in, perform services for, invest in, or assist any business entity that directly competes with the Company's core cloud-infrastructure products within the United States",
+      "governingLaw": "State of California",
+      "jurisdiction": "San Francisco, California, pursuant to its Employment Arbitration Rules",
+      "keyFinancialTerms": "Not found in document"
+    },
+    {
+      "id": "sum-doc-demo-commercial-lease",
+      "documentId": "doc-demo-commercial-lease",
+      "createdAt": "2026-09-14T07:02:11.071Z",
+      "documentType": "Commercial Lease Agreement",
+      "executiveSummary": "This document is a formal Commercial Lease Agreement between Metropolitan Towers LLC and Apex Innovations Inc., executed with an effective date of November 15, 2024. The agreement establishes operational commitments, terms of engagement (for thirty-six (36) consecutive months, commencing on January 1, 2025 (the \"Commencement Date\") and expiring on December 31, 2027 (the \"Expiration Date\"), unless terminated earlier pursuant to the terms hereof), and governing financial arrangements ($14,000.00 per month). It is governed under the jurisdiction of Not found in document.\n\nFrom a structural analysis standpoint, this agreement contains significant clauses governing termination rights, dispute resolution, restrictive covenants, and intellectual property ownership. Non-standard or high-attention provisions have been highlighted for pre-signing legal review.",
+      "plainEnglishExplanation": "In plain terms, this Commercial Lease Agreement lays out the legal relationship between the parties. In exchange for agreed financial payments or mutual business opportunities, both parties agree to follow strict rules. \n\nKey takeaways to keep in mind:\n1. You have defined performance and notice obligations before ending the agreement.\n2. The agreement contains strict rules regarding confidentiality and ownership of work produced.\n3. If a legal dispute arises, the parties are directed toward formal dispute proceedings in the designated governing state.\n4. Several high-attention clauses require careful scrutiny before signature, particularly regarding liability, notice periods, and post-agreement restrictions.",
+      "parties": {
+        "partyA": "Metropolitan Towers LLC",
+        "partyB": "Apex Innovations Inc."
+      },
+      "effectiveDate": "November 15, 2024",
+      "termExpiry": "for thirty-six (36) consecutive months, commencing on January 1, 2025 (the \"Commencement Date\") and expiring on December 31, 2027 (the \"Expiration Date\"), unless terminated earlier pursuant to the terms hereof",
+      "governingLaw": "Not found in document",
+      "jurisdiction": "the Supreme Court of the State of New York, County of New York",
+      "keyFinancialTerms": "$14,000.00 per month"
+    },
+    {
+      "id": "sum-doc-demo-mutual-nda",
+      "documentId": "doc-demo-mutual-nda",
+      "createdAt": "2026-09-14T07:02:11.134Z",
+      "documentType": "Mutual Non-Disclosure Agreement (MNDA)",
+      "executiveSummary": "This document is a formal Mutual Non-Disclosure Agreement (MNDA) between Horizon Health Corporation and GeneVantage Labs Inc., executed with an effective date of August 10, 2024. The agreement establishes operational commitments, terms of engagement (one (1) year from the Effective Date), and governing financial arrangements (Not found in document). It is governed under the jurisdiction of Not found in document.\n\nFrom a structural analysis standpoint, this agreement contains significant clauses governing termination rights, dispute resolution, restrictive covenants, and intellectual property ownership. Non-standard or high-attention provisions have been highlighted for pre-signing legal review.",
+      "plainEnglishExplanation": "In plain terms, this Mutual Non-Disclosure Agreement (MNDA) lays out the legal relationship between the parties. In exchange for agreed financial payments or mutual business opportunities, both parties agree to follow strict rules. \n\nKey takeaways to keep in mind:\n1. You have defined performance and notice obligations before ending the agreement.\n2. The agreement contains strict rules regarding confidentiality and ownership of work produced.\n3. If a legal dispute arises, the parties are directed toward formal dispute proceedings in the designated governing state.\n4. Several high-attention clauses require careful scrutiny before signature, particularly regarding liability, notice periods, and post-agreement restrictions.",
+      "parties": {
+        "partyA": "Horizon Health Corporation",
+        "partyB": "GeneVantage Labs Inc."
+      },
+      "effectiveDate": "August 10, 2024",
+      "termExpiry": "one (1) year from the Effective Date",
+      "governingLaw": "Not found in document",
+      "jurisdiction": "Wilmington, Delaware",
+      "keyFinancialTerms": "Not found in document"
+    },
+    {
+      "id": "sum-doc-demo-employment-redline",
+      "documentId": "doc-demo-employment-redline",
+      "createdAt": "2026-09-14T07:02:11.216Z",
+      "documentType": "Employment Agreement",
+      "executiveSummary": "This document is a formal Employment Agreement between Acme Technologies and Alex Morgan, executed with an effective date of October 1, 2024. The agreement establishes operational commitments, terms of engagement (Not found in document), and governing financial arrangements (Not found in document). It is governed under the jurisdiction of Not found in document.\n\nFrom a structural analysis standpoint, this agreement contains significant clauses governing termination rights, dispute resolution, restrictive covenants, and intellectual property ownership. Non-standard or high-attention provisions have been highlighted for pre-signing legal review.",
+      "plainEnglishExplanation": "In plain terms, this Employment Agreement lays out the legal relationship between the parties. In exchange for agreed financial payments or mutual business opportunities, both parties agree to follow strict rules. \n\nKey takeaways to keep in mind:\n1. You have defined performance and notice obligations before ending the agreement.\n2. The agreement contains strict rules regarding confidentiality and ownership of work produced.\n3. If a legal dispute arises, the parties are directed toward formal dispute proceedings in the designated governing state.\n4. Several high-attention clauses require careful scrutiny before signature, particularly regarding liability, notice periods, and post-agreement restrictions.",
+      "parties": {
+        "partyA": "Acme Technologies",
+        "partyB": "Alex Morgan"
+      },
+      "effectiveDate": "October 1, 2024",
+      "termExpiry": "Not found in document",
+      "governingLaw": "Not found in document",
+      "jurisdiction": "Not found in document",
+      "keyFinancialTerms": "Not found in document"
+    }
+  ],
+  "clauses": [
+    {
+      "id": "cls-doc-demo-employment-agreement-0",
+      "documentId": "doc-demo-employment-agreement",
+      "sectionNumber": "1.2",
+      "title": "Devotion of Time",
+      "originalText": "2. COMPENSATION AND BENEFITS",
+      "plainExplanation": "This standard legal clause outlines procedural terms for the agreement.",
+      "whyItMatters": "Ensures both parties understand operational and legal ground rules.",
+      "potentialConcern": "Ensure terms are mutual and do not place disproportionate burden on one side.",
+      "suggestedQuestion": "Does this provision include standard industry protections for someone in my position?",
+      "attentionLevel": "LOW",
+      "category": "GENERAL_BOILERPLATE"
+    },
+    {
+      "id": "cls-doc-demo-employment-agreement-1",
+      "documentId": "doc-demo-employment-agreement",
+      "sectionNumber": "2.4",
+      "title": "Benefits",
+      "originalText": "3. TERM AND TERMINATION",
+      "plainExplanation": "This standard legal clause outlines procedural terms for the agreement.",
+      "whyItMatters": "Ensures both parties understand operational and legal ground rules.",
+      "potentialConcern": "Ensure terms are mutual and do not place disproportionate burden on one side.",
+      "suggestedQuestion": "Does this provision include standard industry protections for someone in my position?",
+      "attentionLevel": "LOW",
+      "category": "GENERAL_BOILERPLATE"
+    },
+    {
+      "id": "cls-doc-demo-employment-agreement-2",
+      "documentId": "doc-demo-employment-agreement",
+      "sectionNumber": "3.4",
+      "title": "Severance",
+      "originalText": "4. INTELLECTUAL PROPERTY AND INVENTIONS",
+      "plainExplanation": "This standard legal clause outlines procedural terms for the agreement.",
+      "whyItMatters": "Ensures both parties understand operational and legal ground rules.",
+      "potentialConcern": "Ensure terms are mutual and do not place disproportionate burden on one side.",
+      "suggestedQuestion": "Does this provision include standard industry protections for someone in my position?",
+      "attentionLevel": "LOW",
+      "category": "GENERAL_BOILERPLATE"
+    },
+    {
+      "id": "cls-doc-demo-employment-agreement-3",
+      "documentId": "doc-demo-employment-agreement",
+      "sectionNumber": "4.3",
+      "title": "Prior Inventions",
+      "originalText": "5. RESTRICTIVE COVENANTS",
+      "plainExplanation": "Governs who owns the software code, inventions, and ideas created during the term of the agreement.",
+      "whyItMatters": "Broad assignment clauses can inadvertently grant the company ownership over your personal weekend projects and pre-existing IP.",
+      "potentialConcern": "Does not clearly distinguish between work created during company hours versus independent personal projects on personal devices.",
+      "suggestedQuestion": "Can we attach a formal Exhibit of prior inventions to explicitly carve out pre-existing software and personal projects?",
+      "attentionLevel": "HIGH",
+      "category": "INTELLECTUAL_PROPERTY"
+    },
+    {
+      "id": "cls-doc-demo-employment-agreement-4",
+      "documentId": "doc-demo-employment-agreement",
+      "sectionNumber": "5.3",
+      "title": "Non-Solicitation of Customers",
+      "originalText": "6. INDEMNIFICATION AND LIABILITY",
+      "plainExplanation": "This standard legal clause outlines procedural terms for the agreement.",
+      "whyItMatters": "Ensures both parties understand operational and legal ground rules.",
+      "potentialConcern": "Ensure terms are mutual and do not place disproportionate burden on one side.",
+      "suggestedQuestion": "Does this provision include standard industry protections for someone in my position?",
+      "attentionLevel": "LOW",
+      "category": "GENERAL_BOILERPLATE"
+    },
+    {
+      "id": "cls-doc-demo-employment-agreement-5",
+      "documentId": "doc-demo-employment-agreement",
+      "sectionNumber": "6.2",
+      "title": "Limitation of Company Liability",
+      "originalText": "7. DISPUTE RESOLUTION AND GOVERNING LAW",
+      "plainExplanation": "Defines who pays for financial losses, legal defense costs, and damages if a third party files a lawsuit related to this agreement.",
+      "whyItMatters": "One-sided indemnity can expose you personally to massive legal bills and liability for matters outside your direct control.",
+      "potentialConcern": "The indemnification appears one-sided, requiring you to indemnify the other party without reciprocal protection.",
+      "suggestedQuestion": "Can this indemnification clause be made strictly mutual, or capped at the policy limits of applicable insurance?",
+      "attentionLevel": "MEDIUM",
+      "category": "LIABILITY_AND_INDEMNIFICATION"
+    },
+    {
+      "id": "cls-doc-demo-employment-agreement-6",
+      "documentId": "doc-demo-employment-agreement",
+      "sectionNumber": "7.2",
+      "title": "Mandatory Arbitration",
+      "originalText": "7.3 Attorney's Fees. In any action or arbitration to enforce the terms of this Agreement, the prevailing party shall be entitled to recover reasonable attorneys' fees and costs.\n8. MISCELLANEOUS",
+      "plainExplanation": "Specifies the jurisdiction and whether disputes must be settled via private arbitration rather than public courts.",
+      "whyItMatters": "Arbitration waivers eliminate your right to a trial by jury and participation in class actions.",
+      "potentialConcern": "Mandatory arbitration in an inconvenient venue can make asserting your rights prohibitively costly.",
+      "suggestedQuestion": "Does the agreement provide for employer-covered arbitration costs and an initial voluntary mediation step?",
+      "attentionLevel": "MEDIUM",
+      "category": "DISPUTE_RESOLUTION"
+    },
+    {
+      "id": "cls-doc-demo-employment-agreement-7",
+      "documentId": "doc-demo-employment-agreement",
+      "sectionNumber": "8.3",
+      "title": "Counterparts",
+      "originalText": "IN WITNESS WHEREOF, the parties have executed this Employment Agreement as of the Effective Date.\nACME TECHNOLOGIES, INC.\nBy: /s/ Sarah Jenkins\nName: Sarah Jenkins\nTitle: Chief Executive Officer\nEMPLOYEE:\nBy: /s/ Alex Morgan\nName: Alex Morgan\nDate: October 1, 2024",
+      "plainExplanation": "This standard legal clause outlines procedural terms for the agreement.",
+      "whyItMatters": "Ensures both parties understand operational and legal ground rules.",
+      "potentialConcern": "Ensure terms are mutual and do not place disproportionate burden on one side.",
+      "suggestedQuestion": "Does this provision include standard industry protections for someone in my position?",
+      "attentionLevel": "LOW",
+      "category": "GENERAL_BOILERPLATE"
+    },
+    {
+      "id": "cls-doc-demo-commercial-lease-0",
+      "documentId": "doc-demo-commercial-lease",
+      "sectionNumber": "2.2",
+      "title": "Option to Renew",
+      "originalText": "3. RENT AND FINANCIAL OBLIGATIONS",
+      "plainExplanation": "This standard legal clause outlines procedural terms for the agreement.",
+      "whyItMatters": "Ensures both parties understand operational and legal ground rules.",
+      "potentialConcern": "Ensure terms are mutual and do not place disproportionate burden on one side.",
+      "suggestedQuestion": "Does this provision include standard industry protections for someone in my position?",
+      "attentionLevel": "LOW",
+      "category": "GENERAL_BOILERPLATE"
+    },
+    {
+      "id": "cls-doc-demo-commercial-lease-1",
+      "documentId": "doc-demo-commercial-lease",
+      "sectionNumber": "3.1",
+      "title": "Base Rent",
+      "originalText": "- Year 1 (Months 1-12): $14,000.00 per month ($168,000 annual)\n- Year 2 (Months 13-24): $14,700.00 per month (5% increase)\n- Year 3 (Months 25-36): $15,435.00 per month (5% increase)",
+      "plainExplanation": "Specifies base financial amounts, bonuses, rent escalations, late charges, and expense allocations.",
+      "whyItMatters": "Directly determines your cash flow, total earnings, or ongoing lease/fee liabilities.",
+      "potentialConcern": "Watch out for discretionary clauses (where bonuses are not guaranteed) or steep late penalties and variable operating fees.",
+      "suggestedQuestion": "Are bonus metrics defined in writing with objective criteria, and what caps exist on variable pass-through costs?",
+      "attentionLevel": "MEDIUM",
+      "category": "FINANCIAL_AND_PAYMENT"
+    },
+    {
+      "id": "cls-doc-demo-commercial-lease-2",
+      "documentId": "doc-demo-commercial-lease",
+      "sectionNumber": "3.2",
+      "title": "Late Charge and Interest",
+      "originalText": "3.3 Operating Expenses (Triple Net). Tenant shall pay its proportionate share (4.2%) of Building Operating Expenses, including real estate property taxes, structural building insurance, and common area maintenance (CAM), billed monthly.",
+      "plainExplanation": "This standard legal clause outlines procedural terms for the agreement.",
+      "whyItMatters": "Ensures both parties understand operational and legal ground rules.",
+      "potentialConcern": "Ensure terms are mutual and do not place disproportionate burden on one side.",
+      "suggestedQuestion": "Does this provision include standard industry protections for someone in my position?",
+      "attentionLevel": "LOW",
+      "category": "GENERAL_BOILERPLATE"
+    },
+    {
+      "id": "cls-doc-demo-commercial-lease-3",
+      "documentId": "doc-demo-commercial-lease",
+      "sectionNumber": "3.4",
+      "title": "Security Deposit",
+      "originalText": "4. USE AND MAINTENANCE",
+      "plainExplanation": "This standard legal clause outlines procedural terms for the agreement.",
+      "whyItMatters": "Ensures both parties understand operational and legal ground rules.",
+      "potentialConcern": "Ensure terms are mutual and do not place disproportionate burden on one side.",
+      "suggestedQuestion": "Does this provision include standard industry protections for someone in my position?",
+      "attentionLevel": "LOW",
+      "category": "GENERAL_BOILERPLATE"
+    },
+    {
+      "id": "cls-doc-demo-commercial-lease-4",
+      "documentId": "doc-demo-commercial-lease",
+      "sectionNumber": "4.3",
+      "title": "Alterations",
+      "originalText": "5. INSURANCE AND INDEMNIFICATION",
+      "plainExplanation": "This standard legal clause outlines procedural terms for the agreement.",
+      "whyItMatters": "Ensures both parties understand operational and legal ground rules.",
+      "potentialConcern": "Ensure terms are mutual and do not place disproportionate burden on one side.",
+      "suggestedQuestion": "Does this provision include standard industry protections for someone in my position?",
+      "attentionLevel": "LOW",
+      "category": "GENERAL_BOILERPLATE"
+    },
+    {
+      "id": "cls-doc-demo-commercial-lease-5",
+      "documentId": "doc-demo-commercial-lease",
+      "sectionNumber": "5.2",
+      "title": "Indemnification",
+      "originalText": "6. DEFAULT AND REMEDIES",
+      "plainExplanation": "Defines who pays for financial losses, legal defense costs, and damages if a third party files a lawsuit related to this agreement.",
+      "whyItMatters": "One-sided indemnity can expose you personally to massive legal bills and liability for matters outside your direct control.",
+      "potentialConcern": "The indemnification appears one-sided, requiring you to indemnify the other party without reciprocal protection.",
+      "suggestedQuestion": "Can this indemnification clause be made strictly mutual, or capped at the policy limits of applicable insurance?",
+      "attentionLevel": "MEDIUM",
+      "category": "LIABILITY_AND_INDEMNIFICATION"
+    },
+    {
+      "id": "cls-doc-demo-commercial-lease-6",
+      "documentId": "doc-demo-commercial-lease",
+      "sectionNumber": "6.2",
+      "title": "Acceleration of Rent",
+      "originalText": "7. SURRENDER AND HOLDOVER",
+      "plainExplanation": "Specifies base financial amounts, bonuses, rent escalations, late charges, and expense allocations.",
+      "whyItMatters": "Directly determines your cash flow, total earnings, or ongoing lease/fee liabilities.",
+      "potentialConcern": "Watch out for discretionary clauses (where bonuses are not guaranteed) or steep late penalties and variable operating fees.",
+      "suggestedQuestion": "Are bonus metrics defined in writing with objective criteria, and what caps exist on variable pass-through costs?",
+      "attentionLevel": "MEDIUM",
+      "category": "FINANCIAL_AND_PAYMENT"
+    },
+    {
+      "id": "cls-doc-demo-commercial-lease-7",
+      "documentId": "doc-demo-commercial-lease",
+      "sectionNumber": "7.2",
+      "title": "Holdover Penalty",
+      "originalText": "8. GOVERNING LAW AND JURISDICTION\nThis Lease shall be governed by and construed under the laws of the State of New York. The parties consent to exclusive jurisdiction and venue in the Supreme Court of the State of New York, County of New York.\nMETROPOLITAN TOWERS LLC (Landlord)\nBy: /s/ Richard Sterling, Managing Member\nAPEX INNOVATIONS INC. (Tenant)\nBy: /s/ Elena Rostova, Chief Financial Officer",
+      "plainExplanation": "This standard legal clause outlines procedural terms for the agreement.",
+      "whyItMatters": "Ensures both parties understand operational and legal ground rules.",
+      "potentialConcern": "Ensure terms are mutual and do not place disproportionate burden on one side.",
+      "suggestedQuestion": "Does this provision include standard industry protections for someone in my position?",
+      "attentionLevel": "LOW",
+      "category": "GENERAL_BOILERPLATE"
+    },
+    {
+      "id": "cls-doc-demo-mutual-nda-0",
+      "documentId": "doc-demo-mutual-nda",
+      "sectionNumber": "General",
+      "title": "Operational Scope and Responsibilities",
+      "originalText": "MUTUAL NON-DISCLOSURE AGREEMENT\n\nThis Mutual Non-Disclosure Agreement (\"Agreement\") is made effective as of August 10, 2024 (\"Effective Date\"), by and between Horizon Health Corporation, a Massachusetts corporation (\"Horizon\"), and GeneVantage Labs Inc., a Delaware corporation (\"GeneVantage\"). Horizon and GeneVantage may collectively be referred to as the \"Parties\" or individually as a \"Party.\"\n\n1",
+      "plainExplanation": "Defines the foundational commitments and expectations between the parties.",
+      "whyItMatters": "Sets the baseline duties and standards of performance.",
+      "potentialConcern": "Ensure duties are realistic and mutually understood.",
+      "suggestedQuestion": "Are these obligations standard and clearly defined?",
+      "attentionLevel": "LOW",
+      "category": "OBLIGATIONS"
+    },
+    {
+      "id": "cls-doc-demo-mutual-nda-1",
+      "documentId": "doc-demo-mutual-nda",
+      "sectionNumber": "Governing Law",
+      "title": "Jurisdiction & Governing Law",
+      "originalText": "his Agreement shall be governed by and interpreted under the laws of the State of Delaware, without regard to conflicts of law rules. Any legal proceedings shall be brought exclusively in the state or federal courts located in Wilmington, Delaware.\n\nHORIZON HEALTH CORPORATION\nBy: /s/ Dr. Marcus Thorne, Chief Scientific Officer\n\nGENEVANTAGE LABS INC.\nBy: /s/ Claire Deveraux, VP Business Development",
+      "plainExplanation": "Specifies which state's laws interpret the contract.",
+      "whyItMatters": "Governing law impacts statutory protections and legal remedies.",
+      "potentialConcern": "Ensure the forum is not in an unreasonably distant location.",
+      "suggestedQuestion": "Is this jurisdiction favorable or standard for this type of agreement?",
+      "attentionLevel": "MEDIUM",
+      "category": "GOVERNING_LAW"
+    },
+    {
+      "id": "cls-doc-demo-employment-redline-0",
+      "documentId": "doc-demo-employment-redline",
+      "sectionNumber": "1.2",
+      "title": "Devotion of Time",
+      "originalText": "2. COMPENSATION AND BENEFITS",
+      "plainExplanation": "This standard legal clause outlines procedural terms for the agreement.",
+      "whyItMatters": "Ensures both parties understand operational and legal ground rules.",
+      "potentialConcern": "Ensure terms are mutual and do not place disproportionate burden on one side.",
+      "suggestedQuestion": "Does this provision include standard industry protections for someone in my position?",
+      "attentionLevel": "LOW",
+      "category": "GENERAL_BOILERPLATE"
+    },
+    {
+      "id": "cls-doc-demo-employment-redline-1",
+      "documentId": "doc-demo-employment-redline",
+      "sectionNumber": "2.4",
+      "title": "Benefits",
+      "originalText": "3. TERM AND TERMINATION",
+      "plainExplanation": "This standard legal clause outlines procedural terms for the agreement.",
+      "whyItMatters": "Ensures both parties understand operational and legal ground rules.",
+      "potentialConcern": "Ensure terms are mutual and do not place disproportionate burden on one side.",
+      "suggestedQuestion": "Does this provision include standard industry protections for someone in my position?",
+      "attentionLevel": "LOW",
+      "category": "GENERAL_BOILERPLATE"
+    },
+    {
+      "id": "cls-doc-demo-employment-redline-2",
+      "documentId": "doc-demo-employment-redline",
+      "sectionNumber": "3.3",
+      "title": "Severance",
+      "originalText": "4. INTELLECTUAL PROPERTY",
+      "plainExplanation": "This standard legal clause outlines procedural terms for the agreement.",
+      "whyItMatters": "Ensures both parties understand operational and legal ground rules.",
+      "potentialConcern": "Ensure terms are mutual and do not place disproportionate burden on one side.",
+      "suggestedQuestion": "Does this provision include standard industry protections for someone in my position?",
+      "attentionLevel": "LOW",
+      "category": "GENERAL_BOILERPLATE"
+    },
+    {
+      "id": "cls-doc-demo-employment-redline-3",
+      "documentId": "doc-demo-employment-redline",
+      "sectionNumber": "4.1",
+      "title": "Carve-Out for Personal Inventions",
+      "originalText": "5. RESTRICTIVE COVENANTS",
+      "plainExplanation": "Governs who owns the software code, inventions, and ideas created during the term of the agreement.",
+      "whyItMatters": "Broad assignment clauses can inadvertently grant the company ownership over your personal weekend projects and pre-existing IP.",
+      "potentialConcern": "Does not clearly distinguish between work created during company hours versus independent personal projects on personal devices.",
+      "suggestedQuestion": "Can we attach a formal Exhibit of prior inventions to explicitly carve out pre-existing software and personal projects?",
+      "attentionLevel": "HIGH",
+      "category": "INTELLECTUAL_PROPERTY"
+    },
+    {
+      "id": "cls-doc-demo-employment-redline-4",
+      "documentId": "doc-demo-employment-redline",
+      "sectionNumber": "5.2",
+      "title": "Non-Solicitation",
+      "originalText": "6. INDEMNIFICATION AND LIABILITY",
+      "plainExplanation": "This standard legal clause outlines procedural terms for the agreement.",
+      "whyItMatters": "Ensures both parties understand operational and legal ground rules.",
+      "potentialConcern": "Ensure terms are mutual and do not place disproportionate burden on one side.",
+      "suggestedQuestion": "Does this provision include standard industry protections for someone in my position?",
+      "attentionLevel": "LOW",
+      "category": "GENERAL_BOILERPLATE"
+    },
+    {
+      "id": "cls-doc-demo-employment-redline-5",
+      "documentId": "doc-demo-employment-redline",
+      "sectionNumber": "6.2",
+      "title": "Mutual Limitation of Liability",
+      "originalText": "7. DISPUTE RESOLUTION",
+      "plainExplanation": "Defines who pays for financial losses, legal defense costs, and damages if a third party files a lawsuit related to this agreement.",
+      "whyItMatters": "One-sided indemnity can expose you personally to massive legal bills and liability for matters outside your direct control.",
+      "potentialConcern": "The indemnification appears one-sided, requiring you to indemnify the other party without reciprocal protection.",
+      "suggestedQuestion": "Can this indemnification clause be made strictly mutual, or capped at the policy limits of applicable insurance?",
+      "attentionLevel": "MEDIUM",
+      "category": "LIABILITY_AND_INDEMNIFICATION"
+    },
+    {
+      "id": "cls-doc-demo-employment-redline-6",
+      "documentId": "doc-demo-employment-redline",
+      "sectionNumber": "7.2",
+      "title": "Mediation First",
+      "originalText": "ACME TECHNOLOGIES, INC. /s/ Sarah Jenkins\nEMPLOYEE /s/ Alex Morgan",
+      "plainExplanation": "This standard legal clause outlines procedural terms for the agreement.",
+      "whyItMatters": "Ensures both parties understand operational and legal ground rules.",
+      "potentialConcern": "Ensure terms are mutual and do not place disproportionate burden on one side.",
+      "suggestedQuestion": "Does this provision include standard industry protections for someone in my position?",
+      "attentionLevel": "LOW",
+      "category": "GENERAL_BOILERPLATE"
+    }
+  ],
+  "obligations": [
+    {
+      "id": "ob-doc-demo-employment-agreement-0",
+      "documentId": "doc-demo-employment-agreement",
+      "eventName": "Resignation Notice Window",
+      "deadlineRaw": "30 calendar days advance written notice prior to voluntary departure",
+      "isRelative": true,
+      "requiredAction": "Employee must submit formal written resignation at least 30 days before leaving.",
+      "relevantClause": "Section 3.2 (Notice Requirement)",
+      "severity": "MEDIUM"
+    },
+    {
+      "id": "ob-doc-demo-employment-agreement-1",
+      "documentId": "doc-demo-employment-agreement",
+      "eventName": "One-Year Equity Cliff",
+      "deadlineRaw": "12 months from Start Date (October 1, 2025)",
+      "isRelative": false,
+      "requiredAction": "First 25% of stock option grant vests upon completion of one continuous year of service.",
+      "relevantClause": "Section 2.3 (Equity Incentive)",
+      "severity": "INFORMATIONAL",
+      "dueDateEstimated": "2025-10-01"
+    },
+    {
+      "id": "ob-doc-demo-employment-agreement-2",
+      "documentId": "doc-demo-employment-agreement",
+      "eventName": "Post-Employment Non-Compete & Non-Solicit Expiration",
+      "deadlineRaw": "12 months following termination of employment",
+      "isRelative": true,
+      "requiredAction": "Maintain covenant not to solicit employees or clients for 1 full calendar year.",
+      "relevantClause": "Section 5 (Restrictive Covenants)",
+      "severity": "HIGH"
+    },
+    {
+      "id": "ob-doc-demo-employment-agreement-3",
+      "documentId": "doc-demo-employment-agreement",
+      "eventName": "Cause Notice & Cure Period",
+      "deadlineRaw": "10 calendar days following written notice of non-performance",
+      "isRelative": true,
+      "requiredAction": "Opportunity to cure alleged performance deficiencies before termination for Cause.",
+      "relevantClause": "Section 3.3 (Termination for Cause)",
+      "severity": "MEDIUM"
+    },
+    {
+      "id": "ob-doc-demo-commercial-lease-0",
+      "documentId": "doc-demo-commercial-lease",
+      "eventName": "Monthly Rent Due Date",
+      "deadlineRaw": "On or before the 1st day of each calendar month",
+      "isRelative": true,
+      "requiredAction": "Remit base rent and proportionate operating expenses by the 1st of every month.",
+      "relevantClause": "Section 3.1 (Base Rent)",
+      "severity": "MEDIUM"
+    },
+    {
+      "id": "ob-doc-demo-commercial-lease-1",
+      "documentId": "doc-demo-commercial-lease",
+      "eventName": "Late Charge Grace Period",
+      "deadlineRaw": "5 calendar days from rent due date",
+      "isRelative": true,
+      "requiredAction": "Payment must clear within 5 days to avoid an 8% penalty and 1.5% monthly interest.",
+      "relevantClause": "Section 3.2 (Late Charge and Interest)",
+      "severity": "HIGH"
+    },
+    {
+      "id": "ob-doc-demo-commercial-lease-2",
+      "documentId": "doc-demo-commercial-lease",
+      "eventName": "Renewal Notice Deadline",
+      "deadlineRaw": "No later than 180 days prior to Expiration Date (July 4, 2027)",
+      "isRelative": false,
+      "requiredAction": "Tenant must deliver written notice of intent to exercise the 3-year renewal option.",
+      "relevantClause": "Section 2.2 (Option to Renew)",
+      "severity": "HIGH",
+      "dueDateEstimated": "2027-07-04"
+    },
+    {
+      "id": "ob-doc-demo-commercial-lease-3",
+      "documentId": "doc-demo-commercial-lease",
+      "eventName": "Annual Proof of Insurance Submission",
+      "deadlineRaw": "30 days prior to policy expiration",
+      "isRelative": true,
+      "requiredAction": "Provide Landlord with updated certificate of insurance with $4M aggregate naming Landlord additional insured.",
+      "relevantClause": "Section 5.1 (Tenant Insurance)",
+      "severity": "MEDIUM"
+    },
+    {
+      "id": "ob-doc-demo-mutual-nda-0",
+      "documentId": "doc-demo-mutual-nda",
+      "eventName": "Notice of Compelled Legal Process",
+      "deadlineRaw": "Within 5 business days of receiving subpoena or court order",
+      "isRelative": true,
+      "requiredAction": "Provide immediate written notice to Disclosing Party to allow application for a protective order.",
+      "relevantClause": "Section 4 (Compelled Disclosure)",
+      "severity": "HIGH"
+    },
+    {
+      "id": "ob-doc-demo-mutual-nda-1",
+      "documentId": "doc-demo-mutual-nda",
+      "eventName": "Return or Secure Destruction of Materials",
+      "deadlineRaw": "Within 10 business days following written demand or termination of talks",
+      "isRelative": true,
+      "requiredAction": "Return or destroy all confidential documents and provide written officer certificate.",
+      "relevantClause": "Section 5 (Return or Destruction)",
+      "severity": "HIGH"
+    },
+    {
+      "id": "ob-doc-demo-mutual-nda-2",
+      "documentId": "doc-demo-mutual-nda",
+      "eventName": "Confidentiality Survival Period Expiration",
+      "deadlineRaw": "2 years from the date of disclosure (indefinite for trade secrets)",
+      "isRelative": true,
+      "requiredAction": "Maintain strict non-disclosure obligations for two full years.",
+      "relevantClause": "Section 6 (Term and Survival)",
+      "severity": "MEDIUM"
+    },
+    {
+      "id": "ob-doc-demo-employment-redline-0",
+      "documentId": "doc-demo-employment-redline",
+      "eventName": "Resignation Notice Window",
+      "deadlineRaw": "30 calendar days advance written notice prior to voluntary departure",
+      "isRelative": true,
+      "requiredAction": "Employee must submit formal written resignation at least 30 days before leaving.",
+      "relevantClause": "Section 3.2 (Notice Requirement)",
+      "severity": "MEDIUM"
+    },
+    {
+      "id": "ob-doc-demo-employment-redline-1",
+      "documentId": "doc-demo-employment-redline",
+      "eventName": "One-Year Equity Cliff",
+      "deadlineRaw": "12 months from Start Date (October 1, 2025)",
+      "isRelative": false,
+      "requiredAction": "First 25% of stock option grant vests upon completion of one continuous year of service.",
+      "relevantClause": "Section 2.3 (Equity Incentive)",
+      "severity": "INFORMATIONAL",
+      "dueDateEstimated": "2025-10-01"
+    },
+    {
+      "id": "ob-doc-demo-employment-redline-2",
+      "documentId": "doc-demo-employment-redline",
+      "eventName": "Post-Employment Non-Compete & Non-Solicit Expiration",
+      "deadlineRaw": "12 months following termination of employment",
+      "isRelative": true,
+      "requiredAction": "Maintain covenant not to solicit employees or clients for 1 full calendar year.",
+      "relevantClause": "Section 5 (Restrictive Covenants)",
+      "severity": "HIGH"
+    },
+    {
+      "id": "ob-doc-demo-employment-redline-3",
+      "documentId": "doc-demo-employment-redline",
+      "eventName": "Cause Notice & Cure Period",
+      "deadlineRaw": "10 calendar days following written notice of non-performance",
+      "isRelative": true,
+      "requiredAction": "Opportunity to cure alleged performance deficiencies before termination for Cause.",
+      "relevantClause": "Section 3.3 (Termination for Cause)",
+      "severity": "MEDIUM"
+    }
+  ],
+  "qaInteractions": [
+    {
+      "id": "qa-1789369446701-uw08",
+      "documentId": "doc-demo-employment-agreement",
+      "userId": "usr-demo-001",
+      "question": "When can this agreement be terminated?",
+      "answer": "Regarding termination conditions, the agreement states in Section / Page 2: \"If the Employee is terminated by the Company without Cause, and conditioned upon Employee executing a comprehensive general release of claims in favor of the Company, the Company shall pay Employee severance pay equal to three (3) months of Base Salary and continue COBRA premium subsidies for three (3) months.\".",
+      "sources": [
+        {
+          "section": "Section / Page 2",
+          "page": 2,
+          "quoteSnippet": "If the Employee is terminated by the Company without Cause, and conditioned upon Employee executing a comprehensive general release of claims in favor of the Company, the Company shall pay Employee severance pay equal to three (3) months of Base Sala",
+          "relevanceScore": 0.6
+        }
+      ],
+      "confidence": "MEDIUM",
+      "isFoundInDocument": true,
+      "createdAt": "2026-09-14T07:04:06.701Z"
+    }
+  ],
+  "comparisons": [
+    {
+      "id": "cmp-1789369697639",
+      "userId": "usr-demo-001",
+      "docAId": "doc-demo-employment-agreement",
+      "docBId": "doc-demo-employment-redline",
+      "docAName": "Senior Software Engineer Employment Agreement",
+      "docBName": "Senior Software Engineer Employment Agreement (Candidate Redline)",
+      "overviewSummary": "Structural comparison between \"Senior Software Engineer Employment Agreement\" and \"Senior Software Engineer Employment Agreement (Candidate Redline)\" identified 6 substantive clauses with legal significance (4 high-attention changes, 2 medium-attention changes). Key differences focus on restrictive covenants, severance protection, and liability balance.",
+      "majorChangesCount": {
+        "high": 4,
+        "medium": 2,
+        "low": 0
+      },
+      "clauses": [
+        {
+          "clauseTitle": "Non-Competition Covenant",
+          "category": "RESTRICTIVE_COVENANTS",
+          "docAContent": "12-month post-employment non-competition restriction throughout the United States.",
+          "docBContent": "DELETED IN ITS ENTIRETY (Void under CA Bus. & Prof. Code § 16600).",
+          "changeType": "REMOVED",
+          "significance": "HIGH",
+          "plainEnglishImpact": "Document B completely eliminates the 1-year non-compete ban, preserving the worker's freedom to take jobs at competing technology companies.",
+          "suggestedClarification": "Confirm with counsel whether this deletion is acceptable to the employer and reflects governing state law."
+        },
+        {
+          "clauseTitle": "Severance Benefit upon Termination without Cause",
+          "category": "TERMINATION",
+          "docAContent": "Three (3) months Base Salary + 3 months COBRA subsidy upon signing general release.",
+          "docBContent": "Six (6) months Base Salary + 6 months COBRA coverage.",
+          "changeType": "MODIFIED",
+          "significance": "HIGH",
+          "plainEnglishImpact": "Document B doubles the severance safety net from 3 months to 6 months in the event of involuntary termination.",
+          "suggestedClarification": "Ensure the release of claims agreement timing aligns with statutory revocation periods."
+        },
+        {
+          "clauseTitle": "Base Salary Compensation",
+          "category": "FINANCIAL_AND_PAYMENT",
+          "docAContent": "$185,000 annualized base salary.",
+          "docBContent": "$195,000 annualized base salary.",
+          "changeType": "MODIFIED",
+          "significance": "MEDIUM",
+          "plainEnglishImpact": "Base salary is increased by $10,000 (+5.4%) in Document B.",
+          "suggestedClarification": "Verify payroll frequency and first pay date."
+        },
+        {
+          "clauseTitle": "Intellectual Property & Inventions Assignment",
+          "category": "INTELLECTUAL_PROPERTY",
+          "docAContent": "Broad assignment of all inventions related to current or demonstrably anticipated company business.",
+          "docBContent": "Explicit carve-out for personal projects created on personal time without company equipment.",
+          "changeType": "MODIFIED",
+          "significance": "HIGH",
+          "plainEnglishImpact": "Document B protects side-projects, open-source contributions, and personal writing from automatic company ownership.",
+          "suggestedClarification": "List any existing pre-hire repositories on an attached Exhibit."
+        },
+        {
+          "clauseTitle": "Indemnification Obligations",
+          "category": "LIABILITY_AND_INDEMNIFICATION",
+          "docAContent": "Unilateral employee indemnity: Employee indemnifies Company for gross negligence and confidential disclosure.",
+          "docBContent": "Mutual indemnity: Company defends and indemnifies Employee against third-party lawsuits arising from job duties.",
+          "changeType": "MODIFIED",
+          "significance": "HIGH",
+          "plainEnglishImpact": "Document B reverses a major exposure: it requires the company to defend the employee rather than making the employee personally liable for corporate lawsuits.",
+          "suggestedClarification": "Ask whether D&O insurance covers executive staff."
+        },
+        {
+          "clauseTitle": "Dispute Resolution & Escalation",
+          "category": "DISPUTE_RESOLUTION",
+          "docAContent": "Direct mandatory binding arbitration administered by JAMS; jury waiver.",
+          "docBContent": "Mandatory confidential mediation step required before initiating binding arbitration.",
+          "changeType": "MODIFIED",
+          "significance": "MEDIUM",
+          "plainEnglishImpact": "Adds a lower-cost, amicable mediation step before entering expensive arbitration.",
+          "suggestedClarification": "Verify who pays mediation fees."
+        }
+      ],
+      "createdAt": "2026-09-14T07:08:17.639Z"
+    },
+    {
+      "id": "cmp-1789369801971",
+      "userId": "usr-demo-001",
+      "docAId": "doc-demo-employment-redline",
+      "docBId": "doc-demo-mutual-nda",
+      "docAName": "Senior Software Engineer Employment Agreement (Candidate Redline)",
+      "docBName": "Mutual Non-Disclosure Agreement (MNDA)",
+      "overviewSummary": "Structural comparison between \"Senior Software Engineer Employment Agreement (Candidate Redline)\" and \"Mutual Non-Disclosure Agreement (MNDA)\" identified 1 substantive clauses with legal significance (1 high-attention changes, 0 medium-attention changes). Key differences focus on restrictive covenants, severance protection, and liability balance.",
+      "majorChangesCount": {
+        "high": 1,
+        "medium": 0,
+        "low": 0
+      },
+      "clauses": [
+        {
+          "clauseTitle": "Non-Competition Covenant",
+          "category": "RESTRICTIVE_COVENANTS",
+          "docAContent": "12-month post-employment non-competition restriction throughout the United States.",
+          "docBContent": "DELETED IN ITS ENTIRETY (Void under CA Bus. & Prof. Code § 16600).",
+          "changeType": "REMOVED",
+          "significance": "HIGH",
+          "plainEnglishImpact": "Document B completely eliminates the 1-year non-compete ban, preserving the worker's freedom to take jobs at competing technology companies.",
+          "suggestedClarification": "Confirm with counsel whether this deletion is acceptable to the employer and reflects governing state law."
+        }
+      ],
+      "createdAt": "2026-09-14T07:10:01.971Z"
+    }
+  ],
+  "decisionSteps": [
+    {
+      "documentId": "doc-demo-employment-agreement",
+      "steps": [
+        {
+          "stepIndex": 1,
+          "title": "Document Baseline & Context",
+          "subtitle": "What is this agreement and who are the stakeholders?",
+          "summary": "You are evaluating a Employment Agreement between Acme Technologies and Alex Morgan.",
+          "items": [
+            {
+              "label": "Document Category",
+              "description": "Employment Agreement"
+            },
+            {
+              "label": "Parties Involved",
+              "description": "Acme Technologies and Alex Morgan"
+            },
+            {
+              "label": "Status of Draft",
+              "description": "Binding formal draft requiring signature"
+            }
+          ]
+        },
+        {
+          "stepIndex": 2,
+          "title": "What Does It Require of You?",
+          "subtitle": "Immediate and ongoing affirmative commitments",
+          "summary": "Identify the mandatory actions you must take to remain in compliance.",
+          "items": [
+            {
+              "label": "Resignation Notice Window",
+              "description": "Employee must submit formal written resignation at least 30 days before leaving. (30 calendar days advance written notice prior to voluntary departure)",
+              "sourceRef": "Section 3.2 (Notice Requirement)",
+              "concernLevel": "MEDIUM"
+            },
+            {
+              "label": "One-Year Equity Cliff",
+              "description": "First 25% of stock option grant vests upon completion of one continuous year of service. (12 months from Start Date (October 1, 2025))",
+              "sourceRef": "Section 2.3 (Equity Incentive)",
+              "concernLevel": "INFORMATIONAL"
+            },
+            {
+              "label": "Post-Employment Non-Compete & Non-Solicit Expiration",
+              "description": "Maintain covenant not to solicit employees or clients for 1 full calendar year. (12 months following termination of employment)",
+              "sourceRef": "Section 5 (Restrictive Covenants)",
+              "concernLevel": "HIGH"
+            },
+            {
+              "label": "Cause Notice & Cure Period",
+              "description": "Opportunity to cure alleged performance deficiencies before termination for Cause. (10 calendar days following written notice of non-performance)",
+              "sourceRef": "Section 3.3 (Termination for Cause)",
+              "concernLevel": "MEDIUM"
+            }
+          ]
+        },
+        {
+          "stepIndex": 3,
+          "title": "What Could Adversely Affect You?",
+          "subtitle": "Liabilities, risks, and worst-case scenarios",
+          "summary": "Review clauses where financial, career, or operational liabilities are concentrated.",
+          "items": [
+            {
+              "label": "Prior Inventions",
+              "description": "Does not clearly distinguish between work created during company hours versus independent personal projects on personal devices.",
+              "sourceRef": "4.3",
+              "concernLevel": "HIGH"
+            },
+            {
+              "label": "Limitation of Company Liability",
+              "description": "The indemnification appears one-sided, requiring you to indemnify the other party without reciprocal protection.",
+              "sourceRef": "6.2",
+              "concernLevel": "MEDIUM"
+            },
+            {
+              "label": "Mandatory Arbitration",
+              "description": "Mandatory arbitration in an inconvenient venue can make asserting your rights prohibitively costly.",
+              "sourceRef": "7.2",
+              "concernLevel": "MEDIUM"
+            }
+          ],
+          "warningBanner": "JurisPrism does not provide legal advice. Before making an execution decision, review high-attention items with qualified legal counsel."
+        },
+        {
+          "stepIndex": 4,
+          "title": "What Information Is Missing or Silent?",
+          "subtitle": "Unspecified terms, missing exhibits, and ambiguities",
+          "summary": "Provisions that are absent or vaguely drafted leave you unprotected.",
+          "items": [
+            {
+              "label": "Prior Inventions Exhibit",
+              "description": "Ensure Exhibit A is populated to prevent unintentional assignment of pre-existing work.",
+              "concernLevel": "MEDIUM"
+            },
+            {
+              "label": "Cure Period for Inadvertent Breaches",
+              "description": "Ensure you are granted written notice and at least 15 days to remedy any accidental dispute before penalties trigger.",
+              "concernLevel": "LOW"
+            },
+            {
+              "label": "Insurance & Defense Coverage",
+              "description": "Verify whether the counterparty provides reciprocal indemnification or insurance coverage.",
+              "concernLevel": "MEDIUM"
+            }
+          ]
+        },
+        {
+          "stepIndex": 5,
+          "title": "What Should You Clarify Before Signing?",
+          "subtitle": "Actionable points to negotiate or verify with the counterparty",
+          "summary": "Questions to pose to the other party before signing.",
+          "items": [
+            {
+              "label": "Scope of Non-Compete / Restrictive Covenants",
+              "description": "Request deletion or narrowing of geographic and competitive scope."
+            },
+            {
+              "label": "Notice Period Symmetry",
+              "description": "Request that advance termination notice windows be mutual for both parties."
+            },
+            {
+              "label": "Expense Reimbursement & Pass-Through Caps",
+              "description": "Clarify timeline for reimbursing incurred business expenses or capping building CAM fees."
+            }
+          ]
+        },
+        {
+          "stepIndex": 6,
+          "title": "What Should You Ask an Attorney?",
+          "subtitle": "Prioritized questions for your legal consultation",
+          "summary": "Concrete briefing points to minimize attorney billable hours.",
+          "items": [
+            {
+              "label": "Inquire about Prior Inventions",
+              "description": "Can we attach a formal Exhibit of prior inventions to explicitly carve out pre-existing software and personal projects?",
+              "sourceRef": "4.3",
+              "concernLevel": "HIGH"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "documentId": "doc-demo-commercial-lease",
+      "steps": [
+        {
+          "stepIndex": 1,
+          "title": "Document Baseline & Context",
+          "subtitle": "What is this agreement and who are the stakeholders?",
+          "summary": "You are evaluating a Commercial Lease Agreement between Metropolitan Towers LLC and Apex Innovations Inc..",
+          "items": [
+            {
+              "label": "Document Category",
+              "description": "Commercial Lease Agreement"
+            },
+            {
+              "label": "Parties Involved",
+              "description": "Metropolitan Towers LLC and Apex Innovations Inc."
+            },
+            {
+              "label": "Status of Draft",
+              "description": "Binding formal draft requiring signature"
+            }
+          ]
+        },
+        {
+          "stepIndex": 2,
+          "title": "What Does It Require of You?",
+          "subtitle": "Immediate and ongoing affirmative commitments",
+          "summary": "Identify the mandatory actions you must take to remain in compliance.",
+          "items": [
+            {
+              "label": "Monthly Rent Due Date",
+              "description": "Remit base rent and proportionate operating expenses by the 1st of every month. (On or before the 1st day of each calendar month)",
+              "sourceRef": "Section 3.1 (Base Rent)",
+              "concernLevel": "MEDIUM"
+            },
+            {
+              "label": "Late Charge Grace Period",
+              "description": "Payment must clear within 5 days to avoid an 8% penalty and 1.5% monthly interest. (5 calendar days from rent due date)",
+              "sourceRef": "Section 3.2 (Late Charge and Interest)",
+              "concernLevel": "HIGH"
+            },
+            {
+              "label": "Renewal Notice Deadline",
+              "description": "Tenant must deliver written notice of intent to exercise the 3-year renewal option. (No later than 180 days prior to Expiration Date (July 4, 2027))",
+              "sourceRef": "Section 2.2 (Option to Renew)",
+              "concernLevel": "HIGH"
+            },
+            {
+              "label": "Annual Proof of Insurance Submission",
+              "description": "Provide Landlord with updated certificate of insurance with $4M aggregate naming Landlord additional insured. (30 days prior to policy expiration)",
+              "sourceRef": "Section 5.1 (Tenant Insurance)",
+              "concernLevel": "MEDIUM"
+            }
+          ]
+        },
+        {
+          "stepIndex": 3,
+          "title": "What Could Adversely Affect You?",
+          "subtitle": "Liabilities, risks, and worst-case scenarios",
+          "summary": "Review clauses where financial, career, or operational liabilities are concentrated.",
+          "items": [
+            {
+              "label": "Base Rent",
+              "description": "Watch out for discretionary clauses (where bonuses are not guaranteed) or steep late penalties and variable operating fees.",
+              "sourceRef": "3.1",
+              "concernLevel": "MEDIUM"
+            },
+            {
+              "label": "Indemnification",
+              "description": "The indemnification appears one-sided, requiring you to indemnify the other party without reciprocal protection.",
+              "sourceRef": "5.2",
+              "concernLevel": "MEDIUM"
+            },
+            {
+              "label": "Acceleration of Rent",
+              "description": "Watch out for discretionary clauses (where bonuses are not guaranteed) or steep late penalties and variable operating fees.",
+              "sourceRef": "6.2",
+              "concernLevel": "MEDIUM"
+            }
+          ],
+          "warningBanner": "JurisPrism does not provide legal advice. Before making an execution decision, review high-attention items with qualified legal counsel."
+        },
+        {
+          "stepIndex": 4,
+          "title": "What Information Is Missing or Silent?",
+          "subtitle": "Unspecified terms, missing exhibits, and ambiguities",
+          "summary": "Provisions that are absent or vaguely drafted leave you unprotected.",
+          "items": [
+            {
+              "label": "Prior Inventions Exhibit",
+              "description": "Ensure Exhibit A is populated to prevent unintentional assignment of pre-existing work.",
+              "concernLevel": "MEDIUM"
+            },
+            {
+              "label": "Cure Period for Inadvertent Breaches",
+              "description": "Ensure you are granted written notice and at least 15 days to remedy any accidental dispute before penalties trigger.",
+              "concernLevel": "LOW"
+            },
+            {
+              "label": "Insurance & Defense Coverage",
+              "description": "Verify whether the counterparty provides reciprocal indemnification or insurance coverage.",
+              "concernLevel": "MEDIUM"
+            }
+          ]
+        },
+        {
+          "stepIndex": 5,
+          "title": "What Should You Clarify Before Signing?",
+          "subtitle": "Actionable points to negotiate or verify with the counterparty",
+          "summary": "Questions to pose to the other party before signing.",
+          "items": [
+            {
+              "label": "Scope of Non-Compete / Restrictive Covenants",
+              "description": "Request deletion or narrowing of geographic and competitive scope."
+            },
+            {
+              "label": "Notice Period Symmetry",
+              "description": "Request that advance termination notice windows be mutual for both parties."
+            },
+            {
+              "label": "Expense Reimbursement & Pass-Through Caps",
+              "description": "Clarify timeline for reimbursing incurred business expenses or capping building CAM fees."
+            }
+          ]
+        },
+        {
+          "stepIndex": 6,
+          "title": "What Should You Ask an Attorney?",
+          "subtitle": "Prioritized questions for your legal consultation",
+          "summary": "Concrete briefing points to minimize attorney billable hours.",
+          "items": []
+        }
+      ]
+    },
+    {
+      "documentId": "doc-demo-mutual-nda",
+      "steps": [
+        {
+          "stepIndex": 1,
+          "title": "Document Baseline & Context",
+          "subtitle": "What is this agreement and who are the stakeholders?",
+          "summary": "You are evaluating a Mutual Non-Disclosure Agreement (MNDA) between Horizon Health Corporation and GeneVantage Labs Inc..",
+          "items": [
+            {
+              "label": "Document Category",
+              "description": "Mutual Non-Disclosure Agreement (MNDA)"
+            },
+            {
+              "label": "Parties Involved",
+              "description": "Horizon Health Corporation and GeneVantage Labs Inc."
+            },
+            {
+              "label": "Status of Draft",
+              "description": "Binding formal draft requiring signature"
+            }
+          ]
+        },
+        {
+          "stepIndex": 2,
+          "title": "What Does It Require of You?",
+          "subtitle": "Immediate and ongoing affirmative commitments",
+          "summary": "Identify the mandatory actions you must take to remain in compliance.",
+          "items": [
+            {
+              "label": "Notice of Compelled Legal Process",
+              "description": "Provide immediate written notice to Disclosing Party to allow application for a protective order. (Within 5 business days of receiving subpoena or court order)",
+              "sourceRef": "Section 4 (Compelled Disclosure)",
+              "concernLevel": "HIGH"
+            },
+            {
+              "label": "Return or Secure Destruction of Materials",
+              "description": "Return or destroy all confidential documents and provide written officer certificate. (Within 10 business days following written demand or termination of talks)",
+              "sourceRef": "Section 5 (Return or Destruction)",
+              "concernLevel": "HIGH"
+            },
+            {
+              "label": "Confidentiality Survival Period Expiration",
+              "description": "Maintain strict non-disclosure obligations for two full years. (2 years from the date of disclosure (indefinite for trade secrets))",
+              "sourceRef": "Section 6 (Term and Survival)",
+              "concernLevel": "MEDIUM"
+            }
+          ]
+        },
+        {
+          "stepIndex": 3,
+          "title": "What Could Adversely Affect You?",
+          "subtitle": "Liabilities, risks, and worst-case scenarios",
+          "summary": "Review clauses where financial, career, or operational liabilities are concentrated.",
+          "items": [
+            {
+              "label": "Jurisdiction & Governing Law",
+              "description": "Ensure the forum is not in an unreasonably distant location.",
+              "sourceRef": "Governing Law",
+              "concernLevel": "MEDIUM"
+            }
+          ],
+          "warningBanner": "JurisPrism does not provide legal advice. Before making an execution decision, review high-attention items with qualified legal counsel."
+        },
+        {
+          "stepIndex": 4,
+          "title": "What Information Is Missing or Silent?",
+          "subtitle": "Unspecified terms, missing exhibits, and ambiguities",
+          "summary": "Provisions that are absent or vaguely drafted leave you unprotected.",
+          "items": [
+            {
+              "label": "Prior Inventions Exhibit",
+              "description": "Ensure Exhibit A is populated to prevent unintentional assignment of pre-existing work.",
+              "concernLevel": "MEDIUM"
+            },
+            {
+              "label": "Cure Period for Inadvertent Breaches",
+              "description": "Ensure you are granted written notice and at least 15 days to remedy any accidental dispute before penalties trigger.",
+              "concernLevel": "LOW"
+            },
+            {
+              "label": "Insurance & Defense Coverage",
+              "description": "Verify whether the counterparty provides reciprocal indemnification or insurance coverage.",
+              "concernLevel": "MEDIUM"
+            }
+          ]
+        },
+        {
+          "stepIndex": 5,
+          "title": "What Should You Clarify Before Signing?",
+          "subtitle": "Actionable points to negotiate or verify with the counterparty",
+          "summary": "Questions to pose to the other party before signing.",
+          "items": [
+            {
+              "label": "Scope of Non-Compete / Restrictive Covenants",
+              "description": "Request deletion or narrowing of geographic and competitive scope."
+            },
+            {
+              "label": "Notice Period Symmetry",
+              "description": "Request that advance termination notice windows be mutual for both parties."
+            },
+            {
+              "label": "Expense Reimbursement & Pass-Through Caps",
+              "description": "Clarify timeline for reimbursing incurred business expenses or capping building CAM fees."
+            }
+          ]
+        },
+        {
+          "stepIndex": 6,
+          "title": "What Should You Ask an Attorney?",
+          "subtitle": "Prioritized questions for your legal consultation",
+          "summary": "Concrete briefing points to minimize attorney billable hours.",
+          "items": []
+        }
+      ]
+    },
+    {
+      "documentId": "doc-demo-employment-redline",
+      "steps": [
+        {
+          "stepIndex": 1,
+          "title": "Document Baseline & Context",
+          "subtitle": "What is this agreement and who are the stakeholders?",
+          "summary": "You are evaluating a Employment Agreement between Acme Technologies and Alex Morgan.",
+          "items": [
+            {
+              "label": "Document Category",
+              "description": "Employment Agreement"
+            },
+            {
+              "label": "Parties Involved",
+              "description": "Acme Technologies and Alex Morgan"
+            },
+            {
+              "label": "Status of Draft",
+              "description": "Binding formal draft requiring signature"
+            }
+          ]
+        },
+        {
+          "stepIndex": 2,
+          "title": "What Does It Require of You?",
+          "subtitle": "Immediate and ongoing affirmative commitments",
+          "summary": "Identify the mandatory actions you must take to remain in compliance.",
+          "items": [
+            {
+              "label": "Resignation Notice Window",
+              "description": "Employee must submit formal written resignation at least 30 days before leaving. (30 calendar days advance written notice prior to voluntary departure)",
+              "sourceRef": "Section 3.2 (Notice Requirement)",
+              "concernLevel": "MEDIUM"
+            },
+            {
+              "label": "One-Year Equity Cliff",
+              "description": "First 25% of stock option grant vests upon completion of one continuous year of service. (12 months from Start Date (October 1, 2025))",
+              "sourceRef": "Section 2.3 (Equity Incentive)",
+              "concernLevel": "INFORMATIONAL"
+            },
+            {
+              "label": "Post-Employment Non-Compete & Non-Solicit Expiration",
+              "description": "Maintain covenant not to solicit employees or clients for 1 full calendar year. (12 months following termination of employment)",
+              "sourceRef": "Section 5 (Restrictive Covenants)",
+              "concernLevel": "HIGH"
+            },
+            {
+              "label": "Cause Notice & Cure Period",
+              "description": "Opportunity to cure alleged performance deficiencies before termination for Cause. (10 calendar days following written notice of non-performance)",
+              "sourceRef": "Section 3.3 (Termination for Cause)",
+              "concernLevel": "MEDIUM"
+            }
+          ]
+        },
+        {
+          "stepIndex": 3,
+          "title": "What Could Adversely Affect You?",
+          "subtitle": "Liabilities, risks, and worst-case scenarios",
+          "summary": "Review clauses where financial, career, or operational liabilities are concentrated.",
+          "items": [
+            {
+              "label": "Carve-Out for Personal Inventions",
+              "description": "Does not clearly distinguish between work created during company hours versus independent personal projects on personal devices.",
+              "sourceRef": "4.1",
+              "concernLevel": "HIGH"
+            },
+            {
+              "label": "Mutual Limitation of Liability",
+              "description": "The indemnification appears one-sided, requiring you to indemnify the other party without reciprocal protection.",
+              "sourceRef": "6.2",
+              "concernLevel": "MEDIUM"
+            }
+          ],
+          "warningBanner": "JurisPrism does not provide legal advice. Before making an execution decision, review high-attention items with qualified legal counsel."
+        },
+        {
+          "stepIndex": 4,
+          "title": "What Information Is Missing or Silent?",
+          "subtitle": "Unspecified terms, missing exhibits, and ambiguities",
+          "summary": "Provisions that are absent or vaguely drafted leave you unprotected.",
+          "items": [
+            {
+              "label": "Prior Inventions Exhibit",
+              "description": "Ensure Exhibit A is populated to prevent unintentional assignment of pre-existing work.",
+              "concernLevel": "MEDIUM"
+            },
+            {
+              "label": "Cure Period for Inadvertent Breaches",
+              "description": "Ensure you are granted written notice and at least 15 days to remedy any accidental dispute before penalties trigger.",
+              "concernLevel": "LOW"
+            },
+            {
+              "label": "Insurance & Defense Coverage",
+              "description": "Verify whether the counterparty provides reciprocal indemnification or insurance coverage.",
+              "concernLevel": "MEDIUM"
+            }
+          ]
+        },
+        {
+          "stepIndex": 5,
+          "title": "What Should You Clarify Before Signing?",
+          "subtitle": "Actionable points to negotiate or verify with the counterparty",
+          "summary": "Questions to pose to the other party before signing.",
+          "items": [
+            {
+              "label": "Scope of Non-Compete / Restrictive Covenants",
+              "description": "Request deletion or narrowing of geographic and competitive scope."
+            },
+            {
+              "label": "Notice Period Symmetry",
+              "description": "Request that advance termination notice windows be mutual for both parties."
+            },
+            {
+              "label": "Expense Reimbursement & Pass-Through Caps",
+              "description": "Clarify timeline for reimbursing incurred business expenses or capping building CAM fees."
+            }
+          ]
+        },
+        {
+          "stepIndex": 6,
+          "title": "What Should You Ask an Attorney?",
+          "subtitle": "Prioritized questions for your legal consultation",
+          "summary": "Concrete briefing points to minimize attorney billable hours.",
+          "items": [
+            {
+              "label": "Inquire about Carve-Out for Personal Inventions",
+              "description": "Can we attach a formal Exhibit of prior inventions to explicitly carve out pre-existing software and personal projects?",
+              "sourceRef": "4.1",
+              "concernLevel": "HIGH"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "prepKits": [
+    {
+      "id": "pk-doc-demo-employment-agreement",
+      "documentId": "doc-demo-employment-agreement",
+      "userId": "usr-demo-001",
+      "documentTitle": "Senior Software Engineer Employment Agreement",
+      "generatedAt": "2026-09-14T07:02:11.039Z",
+      "sections": {
+        "aboutDocument": "This legal briefing package prepares you for an attorney consultation regarding a proposed Employment Agreement between Acme Technologies and Alex Morgan. It highlights key commitments, critical dates, and areas requiring clarification.",
+        "whatIAmAgreeingTo": [
+          "Performance of defined duties/use of premises subject to Not found in document.",
+          "Adherence to strict confidentiality and protection of proprietary trade information.",
+          "Assignment of intellectual property created during the scope of engagement.",
+          "Submission of legal controversies to the designated governing law and dispute forum."
+        ],
+        "myKeyObligations": [
+          {
+            "obligation": "Employee must submit formal written resignation at least 30 days before leaving.",
+            "deadline": "30 calendar days advance written notice prior to voluntary departure",
+            "clause": "Section 3.2 (Notice Requirement)"
+          },
+          {
+            "obligation": "First 25% of stock option grant vests upon completion of one continuous year of service.",
+            "deadline": "12 months from Start Date (October 1, 2025)",
+            "clause": "Section 2.3 (Equity Incentive)"
+          },
+          {
+            "obligation": "Maintain covenant not to solicit employees or clients for 1 full calendar year.",
+            "deadline": "12 months following termination of employment",
+            "clause": "Section 5 (Restrictive Covenants)"
+          },
+          {
+            "obligation": "Opportunity to cure alleged performance deficiencies before termination for Cause.",
+            "deadline": "10 calendar days following written notice of non-performance",
+            "clause": "Section 3.3 (Termination for Cause)"
+          }
+        ],
+        "importantDatesAndDeadlines": [
+          {
+            "event": "Resignation Notice Window",
+            "deadline": "30 calendar days advance written notice prior to voluntary departure",
+            "action": "Employee must submit formal written resignation at least 30 days before leaving."
+          },
+          {
+            "event": "One-Year Equity Cliff",
+            "deadline": "12 months from Start Date (October 1, 2025)",
+            "action": "First 25% of stock option grant vests upon completion of one continuous year of service."
+          },
+          {
+            "event": "Post-Employment Non-Compete & Non-Solicit Expiration",
+            "deadline": "12 months following termination of employment",
+            "action": "Maintain covenant not to solicit employees or clients for 1 full calendar year."
+          },
+          {
+            "event": "Cause Notice & Cure Period",
+            "deadline": "10 calendar days following written notice of non-performance",
+            "action": "Opportunity to cure alleged performance deficiencies before termination for Cause."
+          }
+        ],
+        "highPriorityReviewAreas": [
+          {
+            "issue": "Prior Inventions: Does not clearly distinguish between work created during company hours versus independent personal projects on personal devices.",
+            "potentialImpact": "Broad assignment clauses can inadvertently grant the company ownership over your personal weekend projects and pre-existing IP.",
+            "clauseRef": "4.3"
+          }
+        ],
+        "questionsForMyLawyer": [
+          {
+            "priority": "HIGH",
+            "question": "Can we attach a formal Exhibit of prior inventions to explicitly carve out pre-existing software and personal projects?",
+            "reason": "Does not clearly distinguish between work created during company hours versus independent personal projects on personal devices."
+          },
+          {
+            "priority": "MEDIUM",
+            "question": "Can this indemnification clause be made strictly mutual, or capped at the policy limits of applicable insurance?",
+            "reason": "The indemnification appears one-sided, requiring you to indemnify the other party without reciprocal protection."
+          },
+          {
+            "priority": "MEDIUM",
+            "question": "Does the agreement provide for employer-covered arbitration costs and an initial voluntary mediation step?",
+            "reason": "Mandatory arbitration in an inconvenient venue can make asserting your rights prohibitively costly."
+          }
+        ],
+        "documentsAndInfoToGather": [
+          "A copy of the complete un-executed agreement including all schedules and exhibits.",
+          "Any prior agreements with the same or related counterparties.",
+          "List of prior inventions, personal open-source projects, or existing business interests.",
+          "Copies of related communications (offer letter, term sheet, or lease brochure)."
+        ],
+        "preSigningNegotiationPoints": [
+          "Request mutual indemnification and mutual limitation of liability.",
+          "Request an explicit cure period (15-30 days) before any event of default can be declared.",
+          "Ensure notice requirements are identical for both parties."
+        ]
+      }
+    },
+    {
+      "id": "pk-doc-demo-commercial-lease",
+      "documentId": "doc-demo-commercial-lease",
+      "userId": "usr-demo-001",
+      "documentTitle": "Commercial Real Estate Lease Agreement",
+      "generatedAt": "2026-09-14T07:02:11.107Z",
+      "sections": {
+        "aboutDocument": "This legal briefing package prepares you for an attorney consultation regarding a proposed Commercial Lease Agreement between Metropolitan Towers LLC and Apex Innovations Inc.. It highlights key commitments, critical dates, and areas requiring clarification.",
+        "whatIAmAgreeingTo": [
+          "Performance of defined duties/use of premises subject to $14,000.00 per month.",
+          "Adherence to strict confidentiality and protection of proprietary trade information.",
+          "Assignment of intellectual property created during the scope of engagement.",
+          "Submission of legal controversies to the designated governing law and dispute forum."
+        ],
+        "myKeyObligations": [
+          {
+            "obligation": "Remit base rent and proportionate operating expenses by the 1st of every month.",
+            "deadline": "On or before the 1st day of each calendar month",
+            "clause": "Section 3.1 (Base Rent)"
+          },
+          {
+            "obligation": "Payment must clear within 5 days to avoid an 8% penalty and 1.5% monthly interest.",
+            "deadline": "5 calendar days from rent due date",
+            "clause": "Section 3.2 (Late Charge and Interest)"
+          },
+          {
+            "obligation": "Tenant must deliver written notice of intent to exercise the 3-year renewal option.",
+            "deadline": "No later than 180 days prior to Expiration Date (July 4, 2027)",
+            "clause": "Section 2.2 (Option to Renew)"
+          },
+          {
+            "obligation": "Provide Landlord with updated certificate of insurance with $4M aggregate naming Landlord additional insured.",
+            "deadline": "30 days prior to policy expiration",
+            "clause": "Section 5.1 (Tenant Insurance)"
+          }
+        ],
+        "importantDatesAndDeadlines": [
+          {
+            "event": "Monthly Rent Due Date",
+            "deadline": "On or before the 1st day of each calendar month",
+            "action": "Remit base rent and proportionate operating expenses by the 1st of every month."
+          },
+          {
+            "event": "Late Charge Grace Period",
+            "deadline": "5 calendar days from rent due date",
+            "action": "Payment must clear within 5 days to avoid an 8% penalty and 1.5% monthly interest."
+          },
+          {
+            "event": "Renewal Notice Deadline",
+            "deadline": "No later than 180 days prior to Expiration Date (July 4, 2027)",
+            "action": "Tenant must deliver written notice of intent to exercise the 3-year renewal option."
+          },
+          {
+            "event": "Annual Proof of Insurance Submission",
+            "deadline": "30 days prior to policy expiration",
+            "action": "Provide Landlord with updated certificate of insurance with $4M aggregate naming Landlord additional insured."
+          }
+        ],
+        "highPriorityReviewAreas": [],
+        "questionsForMyLawyer": [
+          {
+            "priority": "MEDIUM",
+            "question": "Are bonus metrics defined in writing with objective criteria, and what caps exist on variable pass-through costs?",
+            "reason": "Watch out for discretionary clauses (where bonuses are not guaranteed) or steep late penalties and variable operating fees."
+          },
+          {
+            "priority": "MEDIUM",
+            "question": "Can this indemnification clause be made strictly mutual, or capped at the policy limits of applicable insurance?",
+            "reason": "The indemnification appears one-sided, requiring you to indemnify the other party without reciprocal protection."
+          },
+          {
+            "priority": "MEDIUM",
+            "question": "Are bonus metrics defined in writing with objective criteria, and what caps exist on variable pass-through costs?",
+            "reason": "Watch out for discretionary clauses (where bonuses are not guaranteed) or steep late penalties and variable operating fees."
+          }
+        ],
+        "documentsAndInfoToGather": [
+          "A copy of the complete un-executed agreement including all schedules and exhibits.",
+          "Any prior agreements with the same or related counterparties.",
+          "List of prior inventions, personal open-source projects, or existing business interests.",
+          "Copies of related communications (offer letter, term sheet, or lease brochure)."
+        ],
+        "preSigningNegotiationPoints": [
+          "Request mutual indemnification and mutual limitation of liability.",
+          "Request an explicit cure period (15-30 days) before any event of default can be declared.",
+          "Ensure notice requirements are identical for both parties."
+        ]
+      }
+    },
+    {
+      "id": "pk-doc-demo-mutual-nda",
+      "documentId": "doc-demo-mutual-nda",
+      "userId": "usr-demo-001",
+      "documentTitle": "Mutual Non-Disclosure Agreement (MNDA)",
+      "generatedAt": "2026-09-14T07:02:11.176Z",
+      "sections": {
+        "aboutDocument": "This legal briefing package prepares you for an attorney consultation regarding a proposed Mutual Non-Disclosure Agreement (MNDA) between Horizon Health Corporation and GeneVantage Labs Inc.. It highlights key commitments, critical dates, and areas requiring clarification.",
+        "whatIAmAgreeingTo": [
+          "Performance of defined duties/use of premises subject to Not found in document.",
+          "Adherence to strict confidentiality and protection of proprietary trade information.",
+          "Assignment of intellectual property created during the scope of engagement.",
+          "Submission of legal controversies to the designated governing law and dispute forum."
+        ],
+        "myKeyObligations": [
+          {
+            "obligation": "Provide immediate written notice to Disclosing Party to allow application for a protective order.",
+            "deadline": "Within 5 business days of receiving subpoena or court order",
+            "clause": "Section 4 (Compelled Disclosure)"
+          },
+          {
+            "obligation": "Return or destroy all confidential documents and provide written officer certificate.",
+            "deadline": "Within 10 business days following written demand or termination of talks",
+            "clause": "Section 5 (Return or Destruction)"
+          },
+          {
+            "obligation": "Maintain strict non-disclosure obligations for two full years.",
+            "deadline": "2 years from the date of disclosure (indefinite for trade secrets)",
+            "clause": "Section 6 (Term and Survival)"
+          }
+        ],
+        "importantDatesAndDeadlines": [
+          {
+            "event": "Notice of Compelled Legal Process",
+            "deadline": "Within 5 business days of receiving subpoena or court order",
+            "action": "Provide immediate written notice to Disclosing Party to allow application for a protective order."
+          },
+          {
+            "event": "Return or Secure Destruction of Materials",
+            "deadline": "Within 10 business days following written demand or termination of talks",
+            "action": "Return or destroy all confidential documents and provide written officer certificate."
+          },
+          {
+            "event": "Confidentiality Survival Period Expiration",
+            "deadline": "2 years from the date of disclosure (indefinite for trade secrets)",
+            "action": "Maintain strict non-disclosure obligations for two full years."
+          }
+        ],
+        "highPriorityReviewAreas": [],
+        "questionsForMyLawyer": [
+          {
+            "priority": "MEDIUM",
+            "question": "Is this jurisdiction favorable or standard for this type of agreement?",
+            "reason": "Ensure the forum is not in an unreasonably distant location."
+          }
+        ],
+        "documentsAndInfoToGather": [
+          "A copy of the complete un-executed agreement including all schedules and exhibits.",
+          "Any prior agreements with the same or related counterparties.",
+          "List of prior inventions, personal open-source projects, or existing business interests.",
+          "Copies of related communications (offer letter, term sheet, or lease brochure)."
+        ],
+        "preSigningNegotiationPoints": [
+          "Request mutual indemnification and mutual limitation of liability.",
+          "Request an explicit cure period (15-30 days) before any event of default can be declared.",
+          "Ensure notice requirements are identical for both parties."
+        ]
+      }
+    },
+    {
+      "id": "pk-doc-demo-employment-redline",
+      "documentId": "doc-demo-employment-redline",
+      "userId": "usr-demo-001",
+      "documentTitle": "Senior Software Engineer Employment Agreement (Candidate Redline)",
+      "generatedAt": "2026-09-14T07:02:11.265Z",
+      "sections": {
+        "aboutDocument": "This legal briefing package prepares you for an attorney consultation regarding a proposed Employment Agreement between Acme Technologies and Alex Morgan. It highlights key commitments, critical dates, and areas requiring clarification.",
+        "whatIAmAgreeingTo": [
+          "Performance of defined duties/use of premises subject to Not found in document.",
+          "Adherence to strict confidentiality and protection of proprietary trade information.",
+          "Assignment of intellectual property created during the scope of engagement.",
+          "Submission of legal controversies to the designated governing law and dispute forum."
+        ],
+        "myKeyObligations": [
+          {
+            "obligation": "Employee must submit formal written resignation at least 30 days before leaving.",
+            "deadline": "30 calendar days advance written notice prior to voluntary departure",
+            "clause": "Section 3.2 (Notice Requirement)"
+          },
+          {
+            "obligation": "First 25% of stock option grant vests upon completion of one continuous year of service.",
+            "deadline": "12 months from Start Date (October 1, 2025)",
+            "clause": "Section 2.3 (Equity Incentive)"
+          },
+          {
+            "obligation": "Maintain covenant not to solicit employees or clients for 1 full calendar year.",
+            "deadline": "12 months following termination of employment",
+            "clause": "Section 5 (Restrictive Covenants)"
+          },
+          {
+            "obligation": "Opportunity to cure alleged performance deficiencies before termination for Cause.",
+            "deadline": "10 calendar days following written notice of non-performance",
+            "clause": "Section 3.3 (Termination for Cause)"
+          }
+        ],
+        "importantDatesAndDeadlines": [
+          {
+            "event": "Resignation Notice Window",
+            "deadline": "30 calendar days advance written notice prior to voluntary departure",
+            "action": "Employee must submit formal written resignation at least 30 days before leaving."
+          },
+          {
+            "event": "One-Year Equity Cliff",
+            "deadline": "12 months from Start Date (October 1, 2025)",
+            "action": "First 25% of stock option grant vests upon completion of one continuous year of service."
+          },
+          {
+            "event": "Post-Employment Non-Compete & Non-Solicit Expiration",
+            "deadline": "12 months following termination of employment",
+            "action": "Maintain covenant not to solicit employees or clients for 1 full calendar year."
+          },
+          {
+            "event": "Cause Notice & Cure Period",
+            "deadline": "10 calendar days following written notice of non-performance",
+            "action": "Opportunity to cure alleged performance deficiencies before termination for Cause."
+          }
+        ],
+        "highPriorityReviewAreas": [
+          {
+            "issue": "Carve-Out for Personal Inventions: Does not clearly distinguish between work created during company hours versus independent personal projects on personal devices.",
+            "potentialImpact": "Broad assignment clauses can inadvertently grant the company ownership over your personal weekend projects and pre-existing IP.",
+            "clauseRef": "4.1"
+          }
+        ],
+        "questionsForMyLawyer": [
+          {
+            "priority": "HIGH",
+            "question": "Can we attach a formal Exhibit of prior inventions to explicitly carve out pre-existing software and personal projects?",
+            "reason": "Does not clearly distinguish between work created during company hours versus independent personal projects on personal devices."
+          },
+          {
+            "priority": "MEDIUM",
+            "question": "Can this indemnification clause be made strictly mutual, or capped at the policy limits of applicable insurance?",
+            "reason": "The indemnification appears one-sided, requiring you to indemnify the other party without reciprocal protection."
+          }
+        ],
+        "documentsAndInfoToGather": [
+          "A copy of the complete un-executed agreement including all schedules and exhibits.",
+          "Any prior agreements with the same or related counterparties.",
+          "List of prior inventions, personal open-source projects, or existing business interests.",
+          "Copies of related communications (offer letter, term sheet, or lease brochure)."
+        ],
+        "preSigningNegotiationPoints": [
+          "Request mutual indemnification and mutual limitation of liability.",
+          "Request an explicit cure period (15-30 days) before any event of default can be declared.",
+          "Ensure notice requirements are identical for both parties."
+        ]
+      }
+    }
+  ]
+}

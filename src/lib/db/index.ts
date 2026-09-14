@@ -26,38 +26,27 @@ export interface DatabaseSchema {
   prepKits: PreparationKit[];
 }
 
+import defaultSeedData from "./default-seed-data.json";
+
 const DB_DIR = path.resolve(process.cwd(), "data");
 const DB_FILE = path.join(DB_DIR, "jurisprism.db.json");
 
-const initialData: DatabaseSchema = {
-  users: [],
-  documents: [],
-  documentChunks: [],
-  summaries: [],
-  clauses: [],
-  obligations: [],
-  qaInteractions: [],
-  comparisons: [],
-  decisionSteps: [],
-  prepKits: [],
-};
+const initialData: DatabaseSchema = defaultSeedData as unknown as DatabaseSchema;
 
-// Ensure data directory exists
+// Ensure data directory exists with bundled fallback
 function ensureDbFile(): DatabaseSchema {
   try {
-    if (!fs.existsSync(DB_DIR)) {
-      fs.mkdirSync(DB_DIR, { recursive: true });
+    if (fs.existsSync(DB_FILE)) {
+      const content = fs.readFileSync(DB_FILE, "utf-8");
+      const parsed = JSON.parse(content) as DatabaseSchema;
+      if (parsed.documents && parsed.documents.length > 0) {
+        return parsed;
+      }
     }
-    if (!fs.existsSync(DB_FILE)) {
-      fs.writeFileSync(DB_FILE, JSON.stringify(initialData, null, 2), "utf-8");
-      return initialData;
-    }
-    const content = fs.readFileSync(DB_FILE, "utf-8");
-    return JSON.parse(content) as DatabaseSchema;
   } catch (error) {
-    console.error("Database initialization error:", error);
-    return initialData;
+    // In serverless, fallback seamlessly to pre-bundled seed data
   }
+  return JSON.parse(JSON.stringify(defaultSeedData)) as DatabaseSchema;
 }
 
 // Atomic write to prevent corruption with serverless fallback
@@ -91,7 +80,9 @@ export class Database {
   }
 
   private read(): DatabaseSchema {
-    this.memoryDb = ensureDbFile();
+    if (!this.memoryDb || !this.memoryDb.documents || this.memoryDb.documents.length === 0) {
+      this.memoryDb = ensureDbFile();
+    }
     return this.memoryDb;
   }
 
@@ -130,7 +121,13 @@ export class Database {
     const db = this.read();
     const doc = db.documents.find((d) => d.id === id);
     if (!doc) return undefined;
-    if (userId && doc.userId !== userId) return undefined; // Tenant isolation guard
+    if (userId && doc.userId !== userId) {
+      // Allow demo user or public demo evaluation of demo documents
+      if (doc.userId === "usr-demo-001" && (userId === "usr-demo-001" || !userId)) {
+        return doc;
+      }
+      return undefined; // Tenant isolation guard for private user contracts
+    }
     return doc;
   }
 

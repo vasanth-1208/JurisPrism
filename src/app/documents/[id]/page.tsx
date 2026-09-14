@@ -91,6 +91,7 @@ function DocumentWorkspaceContent() {
 
   useEffect(() => {
     if (docId) fetchDocumentData();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [docId]);
 
   const handleReanalyze = async () => {

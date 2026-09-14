@@ -41,6 +41,7 @@ function CompareContent() {
       })
       .catch((err) => console.error(err))
       .finally(() => setFetchingDocs(false));
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const handleCompare = async () => {

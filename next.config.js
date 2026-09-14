@@ -1,3 +1,8 @@
+// Force production environment during build even if deployment platform (Netlify) injects NODE_ENV=development
+if (process.argv.some((arg) => arg.includes("build")) || process.env.NEXT_PHASE === "phase-production-build") {
+  process.env.NODE_ENV = "production";
+}
+
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
